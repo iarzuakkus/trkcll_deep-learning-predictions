@@ -11,7 +11,7 @@
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 This repository contains three deep learning use cases built on the Northwind sample database, each exposed via a FastAPI-based REST endpoint:
 
@@ -31,7 +31,7 @@ Each use case includes data preparation scripts, model definitions, training pip
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 trkcll_deep-learning-predictions/
@@ -76,7 +76,7 @@ trkcll_deep-learning-predictions/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. Clone the repository:
 
@@ -101,7 +101,7 @@ trkcll_deep-learning-predictions/
 
 ---
 
-## 🚀 API Usage
+##  API Usage
 
 Start the FastAPI server and access the interactive docs:
 
@@ -117,7 +117,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🔬 R\&D Topics
+##  R\&D Topics
 
 * **Temporal Features:** Incorporate seasonality effects (e.g., summer vs. winter patterns).
 * **Data Augmentation:** Generate synthetic samples to boost model generalization.
