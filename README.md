@@ -1,4 +1,4 @@
-# TURKCELL Geleceği Yazan Kadınlar Deep Learning Predictions
+# TURKCELL Geleceği Yazan Kadınlar - Deep Learning Predictions
 
 ## Collaborators PAIR-8
 
