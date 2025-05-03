@@ -4,8 +4,11 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
+import joblib
 
-# Veriyi yükle
+# ========================
+# A. Veriyi yükle ve pivot yapalım
+# ========================
 df = pd.read_csv("data/new_product.csv")
 
 # Pivot tablo (her müşteri için kategori bazlı harcama)
@@ -15,63 +18,92 @@ pivot_df = df.pivot_table(index='customer_id',
                           aggfunc='sum',
                           fill_value=0)
 
-# X ve y (hepsi label olacak çünkü multi-label)
-X = pivot_df.copy()
-y = (pivot_df > 0).astype(int)  # 0: hiç almamış, 1: almış
+# ========================
+# B. Dengeli etiketleme stratejimiz
+# ========================
+# Her kategori için ortalama harcama üstündekilere 1
+mean_spending = pivot_df.mean(axis=0)
+y = (pivot_df > mean_spending).astype(int)
 
-# Ölçekleme
+X = pivot_df.copy()  # Giriş verisi
+
+# ========================
+# C. Ölçekleme ve ayırma
+# ========================
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 
-# Split
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
 
-# Model
+# ========================
+# D. Model
+# ========================
 model = Sequential([
     Dense(128, activation='relu', input_shape=(X_train.shape[1],)),
     Dense(64, activation='relu'),
-    Dense(y_train.shape[1], activation='sigmoid')  # Multi-label için sigmoid
+    Dense(y_train.shape[1], activation='sigmoid')
 ])
 
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
-# Eğitim
 model.fit(X_train, y_train, epochs=60, batch_size=32, validation_data=(X_test, y_test))
 
-# Kaydet
-model.save("model/multi_label_predictor.h5")
+# ========================
+# E. Model ve scaler kaydet
+# ========================
+model.save("model/multi_label_predictor.keras")
+joblib.dump(scaler, "model/scaler.joblib")
 
+# ========================
+# F. Öneri Fonksiyonları
+# ========================
 
-# ===============================
-# C. Müşteri ID'si ile Öneri Yapma Fonksiyonu
-# ===============================
-
-def recommend_categories_by_customer_id(model, customer_id, pivot_df, category_names, threshold=0.5):
+def recommend_categories_and_products_by_customer_id(model, customer_id, pivot_df, original_df, threshold=0.5):
     """
-    Belirli bir müşteri ID'sine göre önerilecek kategorileri döndürür.
-    
-    :param model: Eğitilmiş Keras modeli
-    :param customer_id: Müşteri ID'si
-    :param pivot_df: Kategoriler bazında harcama verilerini içeren pivot tablo (DataFrame)
-    :param category_names: Kategori isimlerinin listesi (pivot_df.columns)
-    :param threshold: Öneri için eşik değeri (default: 0.5)
-    :return: Önerilen kategoriler listesi
+    Belirli bir müşteri ID'sine göre kategori ve ürün önerisi döner.
     """
-    # Müşteri ID'sine ait veriyi pivot_df'den al
-    customer_vector = pivot_df.loc[customer_id].values
-    
-    # Model ile tahmin yap
-    probs = model.predict(customer_vector.reshape(1, -1))[0]
-    
-    # Eşik değerini geçen kategorileri öner
-    recommended = [cat for cat, prob in zip(category_names, probs) if prob >= threshold]
-    return recommended
+    # Eğer müşteri ID yoksa None döner
+    if customer_id not in pivot_df.index:
+        return None
 
-# Kullanım örneği:
+    customer_vector = pivot_df.loc[customer_id].values.reshape(1, -1)
+    probs = model.predict(customer_vector)[0]
+
+    category_names = pivot_df.columns
+    recommended_categories = [cat for cat, prob in zip(category_names, probs) if prob >= threshold]
+
+    # Her kategori için en çok harcanan ürünü bulan:
+    recommended_products = []
+    for category in recommended_categories:
+        products_in_cat = original_df[original_df['category_name'] == category]
+        most_common_product = (
+            products_in_cat.groupby('product_name')['total_spending']
+            .sum()
+            .sort_values(ascending=False)
+            .head(1)
+            .index[0]
+        )
+        recommended_products.append({"category": category, "product": most_common_product})
+
+    return recommended_products
+
+# ========================
+# G. Kullanım Örneği
+# ========================
+
+# Örneğin 'MORGK' müşterisi için öneri alalım
 category_names = pivot_df.columns.tolist()
+customer_id = 'CENTC'
 
-# Belirli bir müşteri ID'sine göre öneri yapalım (örneğin müşteri ID'si 'MORGK')
-customer_id = 'MORGK'
-recommended = recommend_categories_by_customer_id(model, customer_id, pivot_df, category_names, threshold=0.5)
-print(f"{customer_id} için önerilen kategoriler:", recommended)
+recommendations = recommend_categories_and_products_by_customer_id(
+    model,
+    customer_id,
+    pivot_df,
+    df,
+    threshold=0.5
+)
+
+print(f"{customer_id} için öneriler:")
+for rec in recommendations:
+    print(f"Kategori: {rec['category']} -> Ürün: {rec['product']}")
 
