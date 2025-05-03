@@ -15,13 +15,13 @@ app = FastAPI()
 # Logger ayarı
 logging.basicConfig(level=logging.INFO)
 
-# İstek modeli
+# İstek modelimiz
 class PredictionRequest(BaseModel):
     product_name: str
     category_name: str
     customer_id: str
 
-# Model ve scaler yükleniyor
+# Model ve scaler yükleyelim
 MODEL_PATH = "model/new_product_model.h5"
 SCALER_PATH = "model/scaler.joblib"
 
@@ -92,7 +92,7 @@ async def predict(request: PredictionRequest):
         logging.error(f"Hata oluştu: {str(e)}")
         raise HTTPException(status_code=500, detail="Bir hata oluştu.")
 
-# Uvicorn ile çalıştırmak istersen
+# Uvicorn ile çalıştırmak istersek
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)

@@ -5,13 +5,13 @@ from sklearn.preprocessing import StandardScaler
 from tensorflow.keras.models import load_model
 import numpy as np
 
-# FastAPI uygulamasını başlat
+# FastAPI uygulamasını başlatalım
 app = FastAPI()
 
 # Modeli yükle
 model = load_model("model/multi_label_predictor.h5")
 
-# Veriyi yükle ve hazırlık yap
+# Veriyi yükle ve hazırlık yapalım
 df = pd.read_csv("data/new_product.csv")
 pivot_df = df.pivot_table(index='customer_id',
                           columns='category_name',
@@ -20,7 +20,7 @@ pivot_df = df.pivot_table(index='customer_id',
                           fill_value=0)
 category_names = pivot_df.columns.tolist()
 
-# Öneri fonksiyonu
+# Öneri fonksiyonumuz
 def recommend_categories_by_customer_id(model, customer_id, pivot_df, category_names, threshold=0.5):
     customer_vector = pivot_df.loc[customer_id].values
     probs = model.predict(customer_vector.reshape(1, -1))[0]
@@ -43,5 +43,5 @@ def recommend_categories(request: CustomerRequest):
     )
     return {"customer_id": request.customer_id, "recommended_categories": recommended_categories}
 
-# API'yi çalıştırmak için terminalde şu komutla başlatabilirsiniz:
+# API'yi çalıştırmak için terminalde şu komutla başlatabiliriz:
 # uvicorn multi_label_api:app --reload

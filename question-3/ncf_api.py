@@ -82,7 +82,7 @@ def recommend_products(request: UserRequest):
     }
 
 
-# Opsiyonel: localde çalıştırmak istersen
+# Opsiyonel: localde çalıştırmak istersek
 if __name__ == "__main__":
     uvicorn.run("ncf_api:app", host="127.0.0.1", port=8000, reload=True)
 
