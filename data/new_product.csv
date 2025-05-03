@@ -1,0 +1,1686 @@
+customer_id,category_id,category_name,total_spending,product_id,product_name
+ALFKI,8,Seafood,46,Spegesild,18.0
+ALFKI,8,Seafood,58,Escargots de Bourgogne,503.4999996051192
+ALFKI,7,Produce,28,Rössle Sauerkraut,604.1999797821045
+ALFKI,4,Dairy Products,59,Raclette Courdavault,825.0
+ALFKI,4,Dairy Products,71,Flotemysost,430.0
+ALFKI,2,Condiments,3,Aniseed Syrup,60.0
+ALFKI,2,Condiments,6,Grandma's Boysenberry Spread,379.9999997019768
+ALFKI,2,Condiments,63,Vegie-spread,878.0000305175781
+ALFKI,2,Condiments,77,Original Frankfurter grüne Soße,20.799999922513962
+ALFKI,1,Beverages,39,Chartreuse verte,283.5
+ALFKI,1,Beverages,76,Lakkalikööri,270.0
+ANATR,8,Seafood,13,Konbu,60.0
+ANATR,7,Produce,14,Tofu,69.75
+ANATR,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,70.0
+ANATR,4,Dairy Products,11,Queso Cabrales,42.0
+ANATR,4,Dairy Products,32,Mascarpone Fabioli,320.0
+ANATR,4,Dairy Products,60,Camembert Pierrot,340.0
+ANATR,4,Dairy Products,69,Gudbrandsdalsost,28.799999237060547
+ANATR,4,Dairy Products,72,Mozzarella di Giovanni,347.99999237060547
+ANATR,3,Confections,19,Teatime Chocolate Biscuits,64.39999866485596
+ANATR,1,Beverages,70,Outback Lager,60.0
+ANTON,8,Seafood,40,Boston Crab Meat,165.5999962925911
+ANTON,6,Meat/Poultry,17,Alice Mutton,702.0
+ANTON,6,Meat/Poultry,53,Perth Pasties,819.9999809265137
+ANTON,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,280.0
+ANTON,5,Grains/Cereals,57,Ravioli Angelo,87.74999985471368
+ANTON,4,Dairy Products,11,Queso Cabrales,1348.1999801248312
+ANTON,4,Dairy Products,33,Geitost,91.99999988079071
+ANTON,4,Dairy Products,59,Raclette Courdavault,742.4999987706542
+ANTON,3,Confections,26,Gumbär Gummibärchen,796.3649827426673
+ANTON,3,Confections,48,Chocolade,162.56249886006117
+ANTON,2,Condiments,66,Louisiana Hot Spiced Okra,68.0
+ANTON,1,Beverages,2,Chang,380.0
+ANTON,1,Beverages,34,Sasquatch Ale,560.0
+ANTON,1,Beverages,43,Ipoh Coffee,586.4999958872795
+ANTON,1,Beverages,75,Rhönbräu Klosterbier,232.5
+AROUT,8,Seafood,13,Konbu,96.00000381469727
+AROUT,8,Seafood,36,Inlagd Sill,304.0
+AROUT,8,Seafood,41,Jack's New England Clam Chowder,135.09999465942383
+AROUT,8,Seafood,46,Spegesild,319.1999997496605
+AROUT,8,Seafood,73,Röd Kaviar,45.0
+AROUT,7,Produce,51,Manjimup Dried Apples,1060.0
+AROUT,6,Meat/Poultry,53,Perth Pasties,590.3999862670898
+AROUT,6,Meat/Poultry,55,Pâté chinois,504.0
+AROUT,5,Grains/Cereals,22,Gustaf's Knäckebröd,84.0
+AROUT,5,Grains/Cereals,52,Filo Mix,266.0
+AROUT,5,Grains/Cereals,56,Gnocchi di nonna Alice,607.9999923706055
+AROUT,5,Grains/Cereals,57,Ravioli Angelo,1170.0000095367432
+AROUT,4,Dairy Products,31,Gorgonzola Telino,1406.2499995343387
+AROUT,4,Dairy Products,60,Camembert Pierrot,510.0
+AROUT,4,Dairy Products,71,Flotemysost,258.0
+AROUT,3,Confections,20,Sir Rodney's Marmalade,3847.499996982515
+AROUT,3,Confections,47,Zaanse koeken,237.5
+AROUT,3,Confections,48,Chocolade,137.6999971970916
+AROUT,3,Confections,50,Valkoinen suklaa,585.0
+AROUT,1,Beverages,2,Chang,227.9999991506338
+AROUT,1,Beverages,24,Guaraná Fantástica,89.99999761581421
+AROUT,1,Beverages,35,Steeleye Stout,72.0
+AROUT,1,Beverages,67,Laughing Lumberjack Lager,210.0
+AROUT,1,Beverages,70,Outback Lager,626.9999970495701
+BERGS,8,Seafood,10,Ikura,619.999999076128
+BERGS,8,Seafood,13,Konbu,36.0
+BERGS,8,Seafood,30,Nord-Ost Matjeshering,1035.5999755859375
+BERGS,8,Seafood,40,Boston Crab Meat,1379.9999713897705
+BERGS,8,Seafood,41,Jack's New England Clam Chowder,327.49999046325684
+BERGS,8,Seafood,73,Röd Kaviar,300.0
+BERGS,7,Produce,14,Tofu,372.0
+BERGS,7,Produce,28,Rössle Sauerkraut,2143.1999262452127
+BERGS,6,Meat/Poultry,17,Alice Mutton,312.00000762939453
+BERGS,6,Meat/Poultry,29,Thüringer Rostbratwurst,928.4250068664551
+BERGS,6,Meat/Poultry,53,Perth Pasties,393.59999084472656
+BERGS,6,Meat/Poultry,54,Tourtière,240.4799974729121
+BERGS,6,Meat/Poultry,55,Pâté chinois,384.00001525878906
+BERGS,5,Grains/Cereals,52,Filo Mix,175.0
+BERGS,4,Dairy Products,32,Mascarpone Fabioli,287.99999952316284
+BERGS,4,Dairy Products,59,Raclette Courdavault,660.0
+BERGS,4,Dairy Products,60,Camembert Pierrot,1088.0000114440918
+BERGS,4,Dairy Products,71,Flotemysost,688.0
+BERGS,3,Confections,16,Pavlova,188.46000792771576
+BERGS,3,Confections,19,Teatime Chocolate Biscuits,229.99999523162842
+BERGS,3,Confections,20,Sir Rodney's Marmalade,1814.4000854492188
+BERGS,3,Confections,26,Gumbär Gummibärchen,1193.2874822616577
+BERGS,3,Confections,47,Zaanse koeken,464.54999970272183
+BERGS,3,Confections,49,Maxilaku,300.0
+BERGS,2,Condiments,3,Aniseed Syrup,300.0
+BERGS,2,Condiments,4,Chef Anton's Cajun Seasoning,237.59999960660934
+BERGS,2,Condiments,44,Gula Malacca,248.0
+BERGS,2,Condiments,63,Vegie-spread,280.79998779296875
+BERGS,1,Beverages,1,Chai,472.5
+BERGS,1,Beverages,2,Chang,299.25
+BERGS,1,Beverages,24,Guaraná Fantástica,63.44999885559082
+BERGS,1,Beverages,35,Steeleye Stout,115.19999694824219
+BERGS,1,Beverages,38,Côte de Blaye,3557.249994110316
+BERGS,1,Beverages,39,Chartreuse verte,410.39999717473984
+BERGS,1,Beverages,43,Ipoh Coffee,2760.0
+BERGS,1,Beverages,75,Rhönbräu Klosterbier,337.1249941047281
+BERGS,1,Beverages,76,Lakkalikööri,283.5
+BLAUS,8,Seafood,18,Carnarvon Tigers,625.0
+BLAUS,7,Produce,28,Rössle Sauerkraut,136.79999542236328
+BLAUS,7,Produce,51,Manjimup Dried Apples,424.0
+BLAUS,6,Meat/Poultry,54,Tourtière,148.99999618530273
+BLAUS,5,Grains/Cereals,57,Ravioli Angelo,78.0
+BLAUS,4,Dairy Products,11,Queso Cabrales,294.0
+BLAUS,4,Dairy Products,60,Camembert Pierrot,714.0
+BLAUS,3,Confections,21,Sir Rodney's Scones,230.0
+BLAUS,3,Confections,47,Zaanse koeken,133.0
+BLAUS,2,Condiments,61,Sirop d'érable,114.0
+BLAUS,1,Beverages,39,Chartreuse verte,90.0
+BLAUS,1,Beverages,76,Lakkalikööri,252.0
+BLONP,8,Seafood,10,Ikura,347.19998931884766
+BLONP,8,Seafood,18,Carnarvon Tigers,956.2499932944775
+BLONP,8,Seafood,41,Jack's New England Clam Chowder,110.0099955649674
+BLONP,8,Seafood,46,Spegesild,48.00000190734863
+BLONP,7,Produce,28,Rössle Sauerkraut,1092.0000457763672
+BLONP,6,Meat/Poultry,17,Alice Mutton,936.0000228881836
+BLONP,6,Meat/Poultry,29,Thüringer Rostbratwurst,3465.0
+BLONP,6,Meat/Poultry,54,Tourtière,165.2000026702881
+BLONP,6,Meat/Poultry,55,Pâté chinois,410.3999996781349
+BLONP,5,Grains/Cereals,52,Filo Mix,111.99999809265137
+BLONP,5,Grains/Cereals,56,Gnocchi di nonna Alice,1094.3999844551086
+BLONP,5,Grains/Cereals,57,Ravioli Angelo,292.5
+BLONP,5,Grains/Cereals,64,Wimmers gute Semmelknödel,718.2000091105699
+BLONP,4,Dairy Products,11,Queso Cabrales,624.7499956190586
+BLONP,4,Dairy Products,31,Gorgonzola Telino,1031.2499995343387
+BLONP,4,Dairy Products,59,Raclette Courdavault,660.0
+BLONP,4,Dairy Products,72,Mozzarella di Giovanni,555.9999847412109
+BLONP,3,Confections,49,Maxilaku,560.0
+BLONP,3,Confections,62,Tarte au sucre,1379.0000534057617
+BLONP,1,Beverages,1,Chai,450.0
+BLONP,1,Beverages,38,Côte de Blaye,2108.000030517578
+BLONP,1,Beverages,39,Chartreuse verte,863.9999771118164
+BLONP,1,Beverages,70,Outback Lager,240.0
+BLONP,1,Beverages,75,Rhönbräu Klosterbier,133.91999565839768
+BLONP,1,Beverages,76,Lakkalikööri,180.0
+BOLID,6,Meat/Poultry,17,Alice Mutton,1170.0
+BOLID,6,Meat/Poultry,29,Thüringer Rostbratwurst,1856.8500137329102
+BOLID,5,Grains/Cereals,52,Filo Mix,223.99999916553497
+BOLID,5,Grains/Cereals,57,Ravioli Angelo,249.60000610351562
+BOLID,2,Condiments,4,Chef Anton's Cajun Seasoning,422.40000915527344
+BOLID,1,Beverages,75,Rhönbräu Klosterbier,309.99999046325684
+BONAP,8,Seafood,10,Ikura,1116.0
+BONAP,8,Seafood,13,Konbu,120.0
+BONAP,8,Seafood,18,Carnarvon Tigers,2449.999999254942
+BONAP,8,Seafood,36,Inlagd Sill,570.0
+BONAP,8,Seafood,40,Boston Crab Meat,772.7999831557274
+BONAP,8,Seafood,41,Jack's New England Clam Chowder,87.7799977567792
+BONAP,8,Seafood,46,Spegesild,252.0
+BONAP,7,Produce,7,Uncle Bob's Organic Dried Pears,1514.9999910593033
+BONAP,7,Produce,14,Tofu,348.75
+BONAP,7,Produce,51,Manjimup Dried Apples,1855.0000297278166
+BONAP,6,Meat/Poultry,17,Alice Mutton,592.7999995350838
+BONAP,6,Meat/Poultry,54,Tourtière,230.10000371932983
+BONAP,5,Grains/Cereals,23,Tunnbröd,107.99999713897705
+BONAP,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,398.9999996870756
+BONAP,5,Grains/Cereals,56,Gnocchi di nonna Alice,855.0
+BONAP,5,Grains/Cereals,57,Ravioli Angelo,204.75
+BONAP,5,Grains/Cereals,64,Wimmers gute Semmelknödel,877.8000030517578
+BONAP,4,Dairy Products,31,Gorgonzola Telino,35.62499997206032
+BONAP,4,Dairy Products,69,Gudbrandsdalsost,675.0
+BONAP,4,Dairy Products,71,Flotemysost,645.0
+BONAP,4,Dairy Products,72,Mozzarella di Giovanni,556.7999877929688
+BONAP,3,Confections,16,Pavlova,918.7425390376523
+BONAP,3,Confections,19,Teatime Chocolate Biscuits,68.99999856948853
+BONAP,3,Confections,25,NuNuCa Nuß-Nougat-Creme,559.9999904632568
+BONAP,3,Confections,47,Zaanse koeken,213.75
+BONAP,3,Confections,62,Tarte au sucre,621.1799893584848
+BONAP,2,Condiments,4,Chef Anton's Cajun Seasoning,934.9999934434891
+BONAP,2,Condiments,6,Grandma's Boysenberry Spread,1562.4999990686774
+BONAP,2,Condiments,8,Northwoods Cranberry Sauce,339.9999976158142
+BONAP,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,199.97499259524048
+BONAP,1,Beverages,39,Chartreuse verte,378.0
+BONAP,1,Beverages,43,Ipoh Coffee,1398.3999699115752
+BONAP,1,Beverages,75,Rhönbräu Klosterbier,139.499999769032
+BONAP,1,Beverages,76,Lakkalikööri,360.0
+BOTTM,8,Seafood,10,Ikura,1326.7999877929688
+BOTTM,8,Seafood,40,Boston Crab Meat,551.2499928474426
+BOTTM,8,Seafood,41,Jack's New England Clam Chowder,153.99999561160803
+BOTTM,7,Produce,7,Uncle Bob's Organic Dried Pears,600.0
+BOTTM,7,Produce,51,Manjimup Dried Apples,1272.0
+BOTTM,6,Meat/Poultry,17,Alice Mutton,1404.0000286102295
+BOTTM,6,Meat/Poultry,55,Pâté chinois,288.0000114440918
+BOTTM,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,212.79999620914458
+BOTTM,5,Grains/Cereals,56,Gnocchi di nonna Alice,684.0
+BOTTM,4,Dairy Products,11,Queso Cabrales,78.75
+BOTTM,4,Dairy Products,33,Geitost,135.5
+BOTTM,4,Dairy Products,59,Raclette Courdavault,1020.799998819828
+BOTTM,4,Dairy Products,60,Camembert Pierrot,2337.5
+BOTTM,4,Dairy Products,72,Mozzarella di Giovanni,1217.9999732971191
+BOTTM,3,Confections,25,NuNuCa Nuß-Nougat-Creme,638.3999886274338
+BOTTM,3,Confections,47,Zaanse koeken,170.9999978542328
+BOTTM,3,Confections,62,Tarte au sucre,4522.474972724915
+BOTTM,3,Confections,68,Scottish Longbreads,525.0
+BOTTM,2,Condiments,3,Aniseed Syrup,200.0
+BOTTM,2,Condiments,6,Grandma's Boysenberry Spread,300.0
+BOTTM,2,Condiments,8,Northwoods Cranberry Sauce,640.0
+BOTTM,2,Condiments,44,Gula Malacca,758.5750084519386
+BOTTM,1,Beverages,1,Chai,810.0
+BOTTM,1,Beverages,24,Guaraná Fantástica,101.25
+BOTTM,1,Beverages,43,Ipoh Coffee,414.0
+BOTTM,1,Beverages,70,Outback Lager,360.0
+BOTTM,1,Beverages,75,Rhönbräu Klosterbier,77.5
+BSBEV,8,Seafood,13,Konbu,138.0
+BSBEV,8,Seafood,40,Boston Crab Meat,146.99999809265137
+BSBEV,8,Seafood,46,Spegesild,180.0
+BSBEV,7,Produce,7,Uncle Bob's Organic Dried Pears,840.0
+BSBEV,7,Produce,51,Manjimup Dried Apples,127.20000457763672
+BSBEV,5,Grains/Cereals,22,Gustaf's Knäckebröd,441.0
+BSBEV,5,Grains/Cereals,56,Gnocchi di nonna Alice,607.9999923706055
+BSBEV,5,Grains/Cereals,57,Ravioli Angelo,117.0
+BSBEV,5,Grains/Cereals,64,Wimmers gute Semmelknödel,239.40000343322754
+BSBEV,4,Dairy Products,33,Geitost,37.5
+BSBEV,4,Dairy Products,59,Raclette Courdavault,220.0
+BSBEV,4,Dairy Products,72,Mozzarella di Giovanni,34.79999923706055
+BSBEV,3,Confections,21,Sir Rodney's Scones,262.0
+BSBEV,3,Confections,49,Maxilaku,120.0
+BSBEV,3,Confections,62,Tarte au sucre,492.99999237060547
+BSBEV,2,Condiments,3,Aniseed Syrup,240.0
+BSBEV,1,Beverages,35,Steeleye Stout,360.0
+BSBEV,1,Beverages,43,Ipoh Coffee,1380.0
+BSBEV,1,Beverages,70,Outback Lager,105.0
+CACTU,8,Seafood,41,Jack's New England Clam Chowder,96.49999618530273
+CACTU,8,Seafood,73,Röd Kaviar,150.0
+CACTU,7,Produce,28,Rössle Sauerkraut,364.79998779296875
+CACTU,4,Dairy Products,31,Gorgonzola Telino,12.5
+CACTU,4,Dairy Products,33,Geitost,25.0
+CACTU,3,Confections,68,Scottish Longbreads,75.0
+CACTU,1,Beverages,34,Sasquatch Ale,280.0
+CACTU,1,Beverages,35,Steeleye Stout,54.0
+CACTU,1,Beverages,43,Ipoh Coffee,322.0
+CACTU,1,Beverages,67,Laughing Lumberjack Lager,280.0
+CACTU,1,Beverages,75,Rhönbräu Klosterbier,155.0
+CENTC,8,Seafood,37,Gravad lax,20.799999237060547
+CENTC,3,Confections,21,Sir Rodney's Scones,80.0
+CHOPS,8,Seafood,10,Ikura,471.1999996304512
+CHOPS,8,Seafood,13,Konbu,36.0
+CHOPS,8,Seafood,37,Gravad lax,208.0
+CHOPS,7,Produce,51,Manjimup Dried Apples,1510.4999988153577
+CHOPS,7,Produce,74,Longlife Tofu,303.9999990463257
+CHOPS,6,Meat/Poultry,55,Pâté chinois,342.72001121520987
+CHOPS,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,392.0
+CHOPS,5,Grains/Cereals,56,Gnocchi di nonna Alice,2667.599997282028
+CHOPS,5,Grains/Cereals,64,Wimmers gute Semmelknödel,798.0000114440918
+CHOPS,4,Dairy Products,60,Camembert Pierrot,322.99999974668026
+CHOPS,4,Dairy Products,69,Gudbrandsdalsost,1440.0
+CHOPS,3,Confections,21,Sir Rodney's Scones,379.9999997019768
+CHOPS,3,Confections,62,Tarte au sucre,946.5599818253518
+CHOPS,2,Condiments,63,Vegie-spread,1843.800064086914
+CHOPS,1,Beverages,1,Chai,183.5999938488007
+CHOPS,1,Beverages,2,Chang,455.9999983012676
+CHOPS,1,Beverages,24,Guaraná Fantástica,45.89999846220017
+COMMI,8,Seafood,46,Spegesild,156.00000190734863
+COMMI,6,Meat/Poultry,29,Thüringer Rostbratwurst,1485.0
+COMMI,5,Grains/Cereals,56,Gnocchi di nonna Alice,911.9999885559082
+COMMI,4,Dairy Products,11,Queso Cabrales,167.99999237060547
+COMMI,3,Confections,49,Maxilaku,240.0
+COMMI,2,Condiments,5,Chef Anton's Gumbo Mix,340.0
+COMMI,2,Condiments,44,Gula Malacca,291.7500114440918
+COMMI,2,Condiments,61,Sirop d'érable,114.0
+COMMI,2,Condiments,77,Original Frankfurter grüne Soße,103.99999618530273
+CONSH,8,Seafood,13,Konbu,4.800000190734863
+CONSH,6,Meat/Poultry,9,Mishi Kobe Niku,291.0
+CONSH,5,Grains/Cereals,22,Gustaf's Knäckebröd,201.59999084472656
+CONSH,5,Grains/Cereals,23,Tunnbröd,151.19999599456787
+CONSH,4,Dairy Products,72,Mozzarella di Giovanni,277.99999237060547
+CONSH,2,Condiments,5,Chef Anton's Gumbo Mix,640.5000114440918
+CONSH,1,Beverages,2,Chang,151.99999809265137
+DRACD,8,Seafood,13,Konbu,128.40000343322754
+DRACD,8,Seafood,41,Jack's New England Clam Chowder,86.84999656677246
+DRACD,6,Meat/Poultry,53,Perth Pasties,655.9999847412109
+DRACD,4,Dairy Products,11,Queso Cabrales,420.0
+DRACD,4,Dairy Products,31,Gorgonzola Telino,200.0
+DRACD,4,Dairy Products,59,Raclette Courdavault,1650.0
+DRACD,3,Confections,26,Gumbär Gummibärchen,374.75999450683594
+DRACD,1,Beverages,75,Rhönbräu Klosterbier,74.39999771118164
+DRACD,1,Beverages,76,Lakkalikööri,172.79999542236328
+DUMON,8,Seafood,10,Ikura,310.0
+DUMON,8,Seafood,41,Jack's New England Clam Chowder,135.09999465942383
+DUMON,6,Meat/Poultry,17,Alice Mutton,585.0
+DUMON,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,67.19999885559082
+DUMON,5,Grains/Cereals,52,Filo Mix,63.0
+DUMON,4,Dairy Products,69,Gudbrandsdalsost,201.59999465942383
+DUMON,3,Confections,21,Sir Rodney's Scones,60.0
+DUMON,1,Beverages,1,Chai,54.0
+DUMON,1,Beverages,34,Sasquatch Ale,140.0
+EASTC,8,Seafood,30,Nord-Ost Matjeshering,388.34999084472656
+EASTC,7,Produce,7,Uncle Bob's Organic Dried Pears,3000.0
+EASTC,6,Meat/Poultry,29,Thüringer Rostbratwurst,2079.0
+EASTC,6,Meat/Poultry,55,Pâté chinois,840.0
+EASTC,4,Dairy Products,11,Queso Cabrales,105.0
+EASTC,4,Dairy Products,33,Geitost,75.0
+EASTC,4,Dairy Products,60,Camembert Pierrot,1700.0
+EASTC,4,Dairy Products,69,Gudbrandsdalsost,863.9999771118164
+EASTC,4,Dairy Products,71,Flotemysost,1161.0000038146973
+EASTC,4,Dairy Products,72,Mozzarella di Giovanni,695.9999847412109
+EASTC,3,Confections,26,Gumbär Gummibärchen,374.75999450683594
+EASTC,3,Confections,49,Maxilaku,480.0
+EASTC,2,Condiments,4,Chef Anton's Cajun Seasoning,550.0
+EASTC,2,Condiments,5,Chef Anton's Gumbo Mix,480.37500858306885
+EASTC,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,442.0499839782715
+EASTC,2,Condiments,66,Louisiana Hot Spiced Okra,408.0
+EASTC,1,Beverages,1,Chai,337.5
+EASTC,1,Beverages,35,Steeleye Stout,503.99998664855957
+EASTC,1,Beverages,43,Ipoh Coffee,276.0
+ERNSH,8,Seafood,10,Ikura,2634.99998152256
+ERNSH,8,Seafood,13,Konbu,397.7999972105026
+ERNSH,8,Seafood,18,Carnarvon Tigers,450.0
+ERNSH,8,Seafood,30,Nord-Ost Matjeshering,931.5000343322754
+ERNSH,8,Seafood,40,Boston Crab Meat,1674.3999652862549
+ERNSH,8,Seafood,41,Jack's New England Clam Chowder,486.0999822616577
+ERNSH,8,Seafood,45,Rogede sild,243.6749998088926
+ERNSH,8,Seafood,46,Spegesild,432.0000171661377
+ERNSH,7,Produce,7,Uncle Bob's Organic Dried Pears,540.0
+ERNSH,7,Produce,14,Tofu,217.3874984756112
+ERNSH,7,Produce,28,Rössle Sauerkraut,5054.279859892727
+ERNSH,7,Produce,51,Manjimup Dried Apples,6041.999995261431
+ERNSH,7,Produce,74,Longlife Tofu,616.0
+ERNSH,6,Meat/Poultry,17,Alice Mutton,3730.3500230491163
+ERNSH,6,Meat/Poultry,29,Thüringer Rostbratwurst,2797.206009330243
+ERNSH,6,Meat/Poultry,54,Tourtière,472.00000762939453
+ERNSH,6,Meat/Poultry,55,Pâté chinois,1325.9999907016754
+ERNSH,5,Grains/Cereals,22,Gustaf's Knäckebröd,1092.0
+ERNSH,5,Grains/Cereals,23,Tunnbröd,431.9999885559082
+ERNSH,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,492.79999753832817
+ERNSH,5,Grains/Cereals,56,Gnocchi di nonna Alice,3571.999988555908
+ERNSH,5,Grains/Cereals,57,Ravioli Angelo,858.0000095367432
+ERNSH,5,Grains/Cereals,64,Wimmers gute Semmelknödel,6290.900010628999
+ERNSH,4,Dairy Products,11,Queso Cabrales,818.9999771118164
+ERNSH,4,Dairy Products,12,Queso Manchego La Pastora,3062.7999918460846
+ERNSH,4,Dairy Products,31,Gorgonzola Telino,1729.9999963492155
+ERNSH,4,Dairy Products,32,Mascarpone Fabioli,122.88000137329101
+ERNSH,4,Dairy Products,33,Geitost,120.0
+ERNSH,4,Dairy Products,59,Raclette Courdavault,8513.999990820885
+ERNSH,4,Dairy Products,60,Camembert Pierrot,5440.0
+ERNSH,4,Dairy Products,69,Gudbrandsdalsost,3050.999995172024
+ERNSH,4,Dairy Products,71,Flotemysost,1036.29999910295
+ERNSH,4,Dairy Products,72,Mozzarella di Giovanni,600.4799825263024
+ERNSH,3,Confections,16,Pavlova,2007.8650238758325
+ERNSH,3,Confections,20,Sir Rodney's Marmalade,3159.0
+ERNSH,3,Confections,21,Sir Rodney's Scones,1085.9999999403954
+ERNSH,3,Confections,26,Gumbär Gummibärchen,929.0924798664452
+ERNSH,3,Confections,27,Schoggi Schokolade,1317.0000457763672
+ERNSH,3,Confections,48,Chocolade,606.8999843955041
+ERNSH,3,Confections,50,Valkoinen suklaa,357.5
+ERNSH,3,Confections,62,Tarte au sucre,3352.3999246120457
+ERNSH,2,Condiments,3,Aniseed Syrup,429.9999997019768
+ERNSH,2,Condiments,5,Chef Anton's Gumbo Mix,1427.9999967068434
+ERNSH,2,Condiments,44,Gula Malacca,1133.8249991107732
+ERNSH,2,Condiments,61,Sirop d'érable,4163.849988788366
+ERNSH,2,Condiments,63,Vegie-spread,3817.999954223633
+ERNSH,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,2280.38741474133
+ERNSH,2,Condiments,66,Louisiana Hot Spiced Okra,816.0000228881836
+ERNSH,1,Beverages,2,Chang,759.999990105629
+ERNSH,1,Beverages,24,Guaraná Fantástica,1090.799997329712
+ERNSH,1,Beverages,34,Sasquatch Ale,1910.9999940544367
+ERNSH,1,Beverages,35,Steeleye Stout,1031.3999854087829
+ERNSH,1,Beverages,38,Côte de Blaye,4005.200054842234
+ERNSH,1,Beverages,39,Chartreuse verte,2915.9999965131283
+ERNSH,1,Beverages,70,Outback Lager,563.999999910593
+ERNSH,1,Beverages,75,Rhönbräu Klosterbier,430.8999998383224
+FAMIA,8,Seafood,30,Nord-Ost Matjeshering,776.6999816894531
+FAMIA,8,Seafood,40,Boston Crab Meat,58.79999923706055
+FAMIA,8,Seafood,41,Jack's New England Clam Chowder,115.79999542236328
+FAMIA,8,Seafood,46,Spegesild,91.79999935626984
+FAMIA,6,Meat/Poultry,53,Perth Pasties,778.9999812692404
+FAMIA,6,Meat/Poultry,54,Tourtière,223.4999942779541
+FAMIA,6,Meat/Poultry,55,Pâté chinois,144.0
+FAMIA,5,Grains/Cereals,52,Filo Mix,28.0
+FAMIA,4,Dairy Products,33,Geitost,100.0
+FAMIA,4,Dairy Products,60,Camembert Pierrot,346.7999975681305
+FAMIA,3,Confections,19,Teatime Chocolate Biscuits,124.83000316366554
+FAMIA,3,Confections,25,NuNuCa Nuß-Nougat-Creme,111.99999809265137
+FAMIA,3,Confections,47,Zaanse koeken,48.449999660253525
+FAMIA,1,Beverages,24,Guaraná Fantástica,92.24999830126762
+FAMIA,1,Beverages,34,Sasquatch Ale,111.99999809265137
+FAMIA,1,Beverages,39,Chartreuse verte,611.9999794960023
+FAMIA,1,Beverages,75,Rhönbräu Klosterbier,341.61999765068293
+FOLIG,8,Seafood,18,Carnarvon Tigers,5000.0
+FOLIG,8,Seafood,37,Gravad lax,207.99999237060547
+FOLIG,7,Produce,7,Uncle Bob's Organic Dried Pears,1050.0
+FOLIG,7,Produce,51,Manjimup Dried Apples,795.0
+FOLIG,6,Meat/Poultry,54,Tourtière,35.40000057220459
+FOLIG,5,Grains/Cereals,22,Gustaf's Knäckebröd,126.0
+FOLIG,4,Dairy Products,59,Raclette Courdavault,528.0
+FOLIG,3,Confections,21,Sir Rodney's Scones,400.0
+FOLIG,3,Confections,47,Zaanse koeken,227.99999713897705
+FOLIG,3,Confections,62,Tarte au sucre,1379.0000534057617
+FOLIG,3,Confections,68,Scottish Longbreads,225.0
+FOLIG,2,Condiments,63,Vegie-spread,1317.0000457763672
+FOLIG,1,Beverages,24,Guaraná Fantástica,90.0
+FOLIG,1,Beverages,35,Steeleye Stout,270.0
+FOLIG,1,Beverages,75,Rhönbräu Klosterbier,15.5
+FOLKO,8,Seafood,30,Nord-Ost Matjeshering,579.6000192031263
+FOLKO,8,Seafood,41,Jack's New England Clam Chowder,532.7374802082777
+FOLKO,8,Seafood,46,Spegesild,300.0
+FOLKO,8,Seafood,58,Escargots de Bourgogne,254.40000820755955
+FOLKO,8,Seafood,73,Röd Kaviar,866.9999997317791
+FOLKO,7,Produce,7,Uncle Bob's Organic Dried Pears,1800.0
+FOLKO,7,Produce,51,Manjimup Dried Apples,4664.0
+FOLKO,6,Meat/Poultry,29,Thüringer Rostbratwurst,4642.125034332275
+FOLKO,6,Meat/Poultry,55,Pâté chinois,755.9999957084656
+FOLKO,5,Grains/Cereals,22,Gustaf's Knäckebröd,525.0
+FOLKO,5,Grains/Cereals,23,Tunnbröd,215.9999991953373
+FOLKO,5,Grains/Cereals,56,Gnocchi di nonna Alice,2280.0
+FOLKO,4,Dairy Products,11,Queso Cabrales,772.7999624013902
+FOLKO,4,Dairy Products,31,Gorgonzola Telino,18.75
+FOLKO,4,Dairy Products,59,Raclette Courdavault,1925.0
+FOLKO,4,Dairy Products,71,Flotemysost,103.20000457763672
+FOLKO,4,Dairy Products,72,Mozzarella di Giovanni,835.1999816894531
+FOLKO,3,Confections,47,Zaanse koeken,570.0
+FOLKO,3,Confections,62,Tarte au sucre,251.42999434590342
+FOLKO,3,Confections,68,Scottish Longbreads,157.5
+FOLKO,2,Condiments,4,Chef Anton's Cajun Seasoning,1044.9999991804361
+FOLKO,2,Condiments,44,Gula Malacca,194.50000762939453
+FOLKO,2,Condiments,61,Sirop d'érable,683.9999974519014
+FOLKO,2,Condiments,63,Vegie-spread,878.0000305175781
+FOLKO,2,Condiments,66,Louisiana Hot Spiced Okra,850.0
+FOLKO,1,Beverages,2,Chang,930.9999883770943
+FOLKO,1,Beverages,39,Chartreuse verte,828.0
+FOLKO,1,Beverages,70,Outback Lager,734.9999977648258
+FOLKO,1,Beverages,75,Rhönbräu Klosterbier,340.9999982267618
+FOLKO,1,Beverages,76,Lakkalikööri,1030.3199912774562
+FRANK,8,Seafood,30,Nord-Ost Matjeshering,517.7999877929688
+FRANK,8,Seafood,36,Inlagd Sill,790.3999882698059
+FRANK,8,Seafood,37,Gravad lax,582.3999786376953
+FRANK,8,Seafood,40,Boston Crab Meat,734.9999904632568
+FRANK,8,Seafood,41,Jack's New England Clam Chowder,183.349992608279
+FRANK,8,Seafood,46,Spegesild,720.0
+FRANK,8,Seafood,58,Escargots de Bourgogne,397.5
+FRANK,8,Seafood,73,Röd Kaviar,941.9999992847443
+FRANK,7,Produce,14,Tofu,1185.75
+FRANK,6,Meat/Poultry,29,Thüringer Rostbratwurst,1646.4070108852834
+FRANK,6,Meat/Poultry,53,Perth Pasties,327.99999237060547
+FRANK,6,Meat/Poultry,54,Tourtière,307.3124921321869
+FRANK,6,Meat/Poultry,55,Pâté chinois,614.400022125244
+FRANK,5,Grains/Cereals,23,Tunnbröd,863.9999847412109
+FRANK,5,Grains/Cereals,64,Wimmers gute Semmelknödel,748.125
+FRANK,4,Dairy Products,31,Gorgonzola Telino,447.99999833106995
+FRANK,4,Dairy Products,59,Raclette Courdavault,3937.9999816417694
+FRANK,4,Dairy Products,60,Camembert Pierrot,1774.79999807477
+FRANK,4,Dairy Products,69,Gudbrandsdalsost,854.9999993294477
+FRANK,4,Dairy Products,71,Flotemysost,2257.5000448152423
+FRANK,4,Dairy Products,72,Mozzarella di Giovanni,1278.7999649047852
+FRANK,3,Confections,16,Pavlova,471.1500198192894
+FRANK,3,Confections,19,Teatime Chocolate Biscuits,561.1999878168106
+FRANK,3,Confections,21,Sir Rodney's Scones,1128.9999993890524
+FRANK,3,Confections,26,Gumbär Gummibärchen,597.5999908447266
+FRANK,3,Confections,62,Tarte au sucre,554.6249914169312
+FRANK,2,Condiments,77,Original Frankfurter grüne Soße,195.0
+FRANK,1,Beverages,2,Chang,291.8399952507019
+FRANK,1,Beverages,24,Guaraná Fantástica,148.5
+FRANK,1,Beverages,35,Steeleye Stout,485.9999991953373
+FRANK,1,Beverages,67,Laughing Lumberjack Lager,350.0
+FRANK,1,Beverages,75,Rhönbräu Klosterbier,573.5
+FRANK,1,Beverages,76,Lakkalikööri,183.5999938488007
+FRANR,7,Produce,51,Manjimup Dried Apples,159.0
+FRANR,6,Meat/Poultry,29,Thüringer Rostbratwurst,1733.0600128173828
+FRANR,3,Confections,16,Pavlova,174.50000762939453
+FRANR,3,Confections,62,Tarte au sucre,492.99999237060547
+FRANR,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,252.59999084472656
+FRANR,1,Beverages,76,Lakkalikööri,360.0
+FRANS,8,Seafood,18,Carnarvon Tigers,500.0
+FRANS,8,Seafood,40,Boston Crab Meat,18.399999618530273
+FRANS,8,Seafood,45,Rogede sild,38.0
+FRANS,7,Produce,51,Manjimup Dried Apples,530.0
+FRANS,7,Produce,74,Longlife Tofu,50.0
+FRANS,4,Dairy Products,60,Camembert Pierrot,136.0
+FRANS,3,Confections,19,Teatime Chocolate Biscuits,45.999999046325684
+FRANS,3,Confections,26,Gumbär Gummibärchen,49.79999923706055
+FRANS,3,Confections,47,Zaanse koeken,47.5
+FRANS,2,Condiments,77,Original Frankfurter grüne Soße,130.0
+FURIB,8,Seafood,10,Ikura,632.3999955654144
+FURIB,6,Meat/Poultry,54,Tourtière,100.30000091791152
+FURIB,5,Grains/Cereals,56,Gnocchi di nonna Alice,1117.199985408783
+FURIB,4,Dairy Products,59,Raclette Courdavault,396.0
+FURIB,4,Dairy Products,60,Camembert Pierrot,601.8000148534775
+FURIB,3,Confections,16,Pavlova,593.300021779537
+FURIB,3,Confections,48,Chocolade,68.84999988600612
+FURIB,3,Confections,68,Scottish Longbreads,100.0
+FURIB,2,Condiments,4,Chef Anton's Cajun Seasoning,225.28000404357908
+FURIB,2,Condiments,44,Gula Malacca,975.6250291317701
+FURIB,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,940.3874578729273
+FURIB,2,Condiments,77,Original Frankfurter grüne Soße,61.87999729633333
+FURIB,1,Beverages,24,Guaraná Fantástica,35.999999046325684
+FURIB,1,Beverages,35,Steeleye Stout,305.9999978542328
+FURIB,1,Beverages,43,Ipoh Coffee,110.39999771118164
+FURIB,1,Beverages,76,Lakkalikööri,161.9999997317791
+GALED,8,Seafood,10,Ikura,155.0
+GALED,5,Grains/Cereals,56,Gnocchi di nonna Alice,151.99999809265137
+GALED,5,Grains/Cereals,64,Wimmers gute Semmelknödel,186.2000026702881
+GALED,3,Confections,25,NuNuCa Nuß-Nougat-Creme,70.0
+GALED,3,Confections,47,Zaanse koeken,47.5
+GALED,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,83.99999618530273
+GALED,2,Condiments,77,Original Frankfurter grüne Soße,51.99999809265137
+GALED,1,Beverages,76,Lakkalikööri,90.0
+GODOS,8,Seafood,10,Ikura,310.0
+GODOS,8,Seafood,36,Inlagd Sill,256.5
+GODOS,8,Seafood,40,Boston Crab Meat,529.1999922573566
+GODOS,7,Produce,51,Manjimup Dried Apples,2120.0
+GODOS,6,Meat/Poultry,17,Alice Mutton,748.7999995350838
+GODOS,6,Meat/Poultry,29,Thüringer Rostbratwurst,2475.800018310547
+GODOS,6,Meat/Poultry,55,Pâté chinois,323.99999982118607
+GODOS,5,Grains/Cereals,64,Wimmers gute Semmelknödel,773.0624996284023
+GODOS,4,Dairy Products,60,Camembert Pierrot,306.0
+GODOS,3,Confections,19,Teatime Chocolate Biscuits,91.99999809265137
+GODOS,3,Confections,21,Sir Rodney's Scones,53.99999991059303
+GODOS,3,Confections,50,Valkoinen suklaa,146.25
+GODOS,3,Confections,62,Tarte au sucre,936.6999847695231
+GODOS,3,Confections,68,Scottish Longbreads,359.9999997764826
+GODOS,2,Condiments,61,Sirop d'érable,256.4999995753169
+GODOS,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,873.5474630996213
+GODOS,1,Beverages,1,Chai,180.0
+GODOS,1,Beverages,2,Chang,380.0
+GODOS,1,Beverages,24,Guaraná Fantástica,54.0
+GODOS,1,Beverages,67,Laughing Lumberjack Lager,210.0
+GODOS,1,Beverages,70,Outback Lager,60.0
+GOURL,8,Seafood,10,Ikura,620.0
+GOURL,8,Seafood,30,Nord-Ost Matjeshering,427.1849899291992
+GOURL,8,Seafood,41,Jack's New England Clam Chowder,38.599998474121094
+GOURL,7,Produce,7,Uncle Bob's Organic Dried Pears,76.4999994635582
+GOURL,7,Produce,51,Manjimup Dried Apples,1484.0
+GOURL,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,503.999999165535
+GOURL,5,Grains/Cereals,56,Gnocchi di nonna Alice,645.999995470047
+GOURL,4,Dairy Products,12,Queso Manchego La Pastora,121.5999995470047
+GOURL,4,Dairy Products,31,Gorgonzola Telino,140.0
+GOURL,4,Dairy Products,59,Raclette Courdavault,880.0
+GOURL,4,Dairy Products,60,Camembert Pierrot,340.0
+GOURL,3,Confections,47,Zaanse koeken,142.5
+GOURL,2,Condiments,6,Grandma's Boysenberry Spread,750.0
+GOURL,2,Condiments,8,Northwoods Cranberry Sauce,1600.0
+GOURL,1,Beverages,2,Chang,151.99999943375587
+GOURL,1,Beverages,75,Rhönbräu Klosterbier,131.749999076128
+GOURL,1,Beverages,76,Lakkalikööri,360.0
+GREAL,8,Seafood,36,Inlagd Sill,455.9999983012676
+GREAL,7,Produce,14,Tofu,62.7749998960644
+GREAL,6,Meat/Poultry,29,Thüringer Rostbratwurst,185.68500137329102
+GREAL,5,Grains/Cereals,56,Gnocchi di nonna Alice,532.0
+GREAL,5,Grains/Cereals,64,Wimmers gute Semmelknödel,931.0
+GREAL,4,Dairy Products,11,Queso Cabrales,63.0
+GREAL,4,Dairy Products,33,Geitost,15.999999940395355
+GREAL,4,Dairy Products,59,Raclette Courdavault,1402.4999901652336
+GREAL,4,Dairy Products,60,Camembert Pierrot,510.0
+GREAL,4,Dairy Products,71,Flotemysost,306.3749997597188
+GREAL,4,Dairy Products,72,Mozzarella di Giovanni,313.1999931335449
+GREAL,3,Confections,19,Teatime Chocolate Biscuits,248.39999443888667
+GREAL,3,Confections,21,Sir Rodney's Scones,307.99999982118607
+GREAL,3,Confections,47,Zaanse koeken,51.29999991506338
+GREAL,3,Confections,62,Tarte au sucre,936.6999847695231
+GREAL,2,Condiments,44,Gula Malacca,490.14001841455695
+GREAL,1,Beverages,1,Chai,144.0
+GREAL,1,Beverages,35,Steeleye Stout,72.0
+GREAL,1,Beverages,38,Côte de Blaye,11264.624991165474
+GREAL,1,Beverages,70,Outback Lager,213.74999983236194
+GROSR,8,Seafood,10,Ikura,310.0
+GROSR,6,Meat/Poultry,29,Thüringer Rostbratwurst,990.0
+GROSR,4,Dairy Products,72,Mozzarella di Giovanni,111.19999694824219
+GROSR,1,Beverages,75,Rhönbräu Klosterbier,77.5
+HANAR,8,Seafood,10,Ikura,2170.0
+HANAR,8,Seafood,13,Konbu,240.0
+HANAR,8,Seafood,18,Carnarvon Tigers,1250.0
+HANAR,8,Seafood,36,Inlagd Sill,688.7499971687794
+HANAR,8,Seafood,41,Jack's New England Clam Chowder,76.99999809265137
+HANAR,7,Produce,51,Manjimup Dried Apples,1261.4000365495679
+HANAR,6,Meat/Poultry,17,Alice Mutton,585.0
+HANAR,5,Grains/Cereals,52,Filo Mix,71.39999949932098
+HANAR,5,Grains/Cereals,56,Gnocchi di nonna Alice,570.0
+HANAR,4,Dairy Products,11,Queso Cabrales,236.25
+HANAR,4,Dairy Products,31,Gorgonzola Telino,762.5
+HANAR,4,Dairy Products,69,Gudbrandsdalsost,1080.0
+HANAR,4,Dairy Products,71,Flotemysost,174.14999971166253
+HANAR,3,Confections,19,Teatime Chocolate Biscuits,321.9999933242798
+HANAR,3,Confections,49,Maxilaku,640.0
+HANAR,3,Confections,68,Scottish Longbreads,250.0
+HANAR,2,Condiments,61,Sirop d'érable,227.9999991506338
+HANAR,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,1338.2699469003082
+HANAR,2,Condiments,77,Original Frankfurter grüne Soße,812.5
+HANAR,1,Beverages,24,Guaraná Fantástica,299.2499997653067
+HANAR,1,Beverages,38,Côte de Blaye,18076.099998429418
+HANAR,1,Beverages,39,Chartreuse verte,604.7999839782715
+HANAR,1,Beverages,43,Ipoh Coffee,1103.9999958872795
+HILAA,8,Seafood,13,Konbu,403.1999999284744
+HILAA,8,Seafood,30,Nord-Ost Matjeshering,776.6999816894531
+HILAA,8,Seafood,40,Boston Crab Meat,1195.9999752044678
+HILAA,8,Seafood,41,Jack's New England Clam Chowder,521.0999794006348
+HILAA,8,Seafood,46,Spegesild,241.92000921249388
+HILAA,8,Seafood,58,Escargots de Bourgogne,135.14999905228615
+HILAA,7,Produce,28,Rössle Sauerkraut,911.9999694824219
+HILAA,7,Produce,51,Manjimup Dried Apples,2120.0000381469727
+HILAA,7,Produce,74,Longlife Tofu,128.0
+HILAA,6,Meat/Poultry,53,Perth Pasties,1650.6000453323124
+HILAA,6,Meat/Poultry,55,Pâté chinois,36.48000142097473
+HILAA,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,420.0
+HILAA,5,Grains/Cereals,57,Ravioli Angelo,390.0
+HILAA,5,Grains/Cereals,64,Wimmers gute Semmelknödel,1196.9999965317547
+HILAA,4,Dairy Products,11,Queso Cabrales,83.99999618530273
+HILAA,4,Dairy Products,31,Gorgonzola Telino,250.0
+HILAA,4,Dairy Products,32,Mascarpone Fabioli,128.0
+HILAA,4,Dairy Products,59,Raclette Courdavault,4565.0
+HILAA,4,Dairy Products,69,Gudbrandsdalsost,1569.5999913215637
+HILAA,4,Dairy Products,71,Flotemysost,645.0
+HILAA,3,Confections,25,NuNuCa Nuß-Nougat-Creme,210.0
+HILAA,3,Confections,26,Gumbär Gummibärchen,524.6639903550447
+HILAA,3,Confections,27,Schoggi Schokolade,877.4999618530273
+HILAA,3,Confections,68,Scottish Longbreads,300.0
+HILAA,2,Condiments,44,Gula Malacca,194.50000762939453
+HILAA,2,Condiments,77,Original Frankfurter grüne Soße,155.9999942779541
+HILAA,1,Beverages,1,Chai,305.9999978542328
+HILAA,1,Beverages,2,Chang,950.0
+HILAA,1,Beverages,24,Guaraná Fantástica,164.25
+HILAA,1,Beverages,35,Steeleye Stout,720.0
+HILAA,1,Beverages,39,Chartreuse verte,86.39999771118164
+HILAA,1,Beverages,70,Outback Lager,144.0
+HILAA,1,Beverages,75,Rhönbräu Klosterbier,765.6999931335449
+HUNGC,8,Seafood,13,Konbu,48.00000190734863
+HUNGC,8,Seafood,73,Röd Kaviar,450.0
+HUNGC,7,Produce,14,Tofu,279.0000057220459
+HUNGC,6,Meat/Poultry,17,Alice Mutton,62.400001525878906
+HUNGC,6,Meat/Poultry,54,Tourtière,88.80000019073486
+HUNGC,4,Dairy Products,33,Geitost,40.0
+HUNGC,3,Confections,20,Sir Rodney's Marmalade,1701.0
+HUNGC,3,Confections,62,Tarte au sucre,394.00001525878906
+HUNGO,8,Seafood,10,Ikura,418.5
+HUNGO,8,Seafood,18,Carnarvon Tigers,1856.2499969266355
+HUNGO,8,Seafood,30,Nord-Ost Matjeshering,1267.3799898317457
+HUNGO,8,Seafood,36,Inlagd Sill,541.4999942779541
+HUNGO,8,Seafood,40,Boston Crab Meat,662.3999851703644
+HUNGO,8,Seafood,41,Jack's New England Clam Chowder,955.3499606527389
+HUNGO,8,Seafood,58,Escargots de Bourgogne,1197.8000199519097
+HUNGO,7,Produce,14,Tofu,1627.5
+HUNGO,7,Produce,51,Manjimup Dried Apples,1787.1600525283811
+HUNGO,6,Meat/Poultry,9,Mishi Kobe Niku,3637.5
+HUNGO,6,Meat/Poultry,29,Thüringer Rostbratwurst,16711.65012359619
+HUNGO,6,Meat/Poultry,53,Perth Pasties,565.0800107043981
+HUNGO,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,302.3999996185303
+HUNGO,5,Grains/Cereals,56,Gnocchi di nonna Alice,1140.0
+HUNGO,4,Dairy Products,11,Queso Cabrales,630.0
+HUNGO,4,Dairy Products,31,Gorgonzola Telino,799.9999970197678
+HUNGO,4,Dairy Products,32,Mascarpone Fabioli,1130.879999704361
+HUNGO,4,Dairy Products,59,Raclette Courdavault,4713.499979674816
+HUNGO,4,Dairy Products,60,Camembert Pierrot,146.8800038766861
+HUNGO,4,Dairy Products,71,Flotemysost,1588.850027680397
+HUNGO,3,Confections,16,Pavlova,565.3800237831473
+HUNGO,3,Confections,50,Valkoinen suklaa,520.0
+HUNGO,3,Confections,62,Tarte au sucre,591.0000228881836
+HUNGO,2,Condiments,4,Chef Anton's Cajun Seasoning,352.00000762939453
+HUNGO,2,Condiments,6,Grandma's Boysenberry Spread,600.0
+HUNGO,2,Condiments,63,Vegie-spread,921.3749599456787
+HUNGO,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,1262.9999542236328
+HUNGO,2,Condiments,77,Original Frankfurter grüne Soße,341.25
+HUNGO,1,Beverages,1,Chai,202.5
+HUNGO,1,Beverages,2,Chang,693.1199909853935
+HUNGO,1,Beverages,34,Sasquatch Ale,420.0
+HUNGO,1,Beverages,39,Chartreuse verte,43.19999983906746
+HUNGO,1,Beverages,43,Ipoh Coffee,735.9999847412109
+HUNGO,1,Beverages,70,Outback Lager,360.0
+HUNGO,1,Beverages,75,Rhönbräu Klosterbier,155.0
+HUNGO,1,Beverages,76,Lakkalikööri,535.4999962449074
+ISLAT,8,Seafood,13,Konbu,60.0
+ISLAT,8,Seafood,41,Jack's New England Clam Chowder,153.99999618530273
+ISLAT,6,Meat/Poultry,53,Perth Pasties,65.5999984741211
+ISLAT,5,Grains/Cereals,23,Tunnbröd,135.0
+ISLAT,5,Grains/Cereals,56,Gnocchi di nonna Alice,570.0
+ISLAT,4,Dairy Products,33,Geitost,24.0
+ISLAT,4,Dairy Products,59,Raclette Courdavault,330.0
+ISLAT,4,Dairy Products,60,Camembert Pierrot,714.0
+ISLAT,4,Dairy Products,71,Flotemysost,528.9000091552734
+ISLAT,4,Dairy Products,72,Mozzarella di Giovanni,347.99999237060547
+ISLAT,3,Confections,19,Teatime Chocolate Biscuits,45.999999046325684
+ISLAT,3,Confections,62,Tarte au sucre,98.5999984741211
+ISLAT,2,Condiments,8,Northwoods Cranberry Sauce,800.0
+ISLAT,2,Condiments,61,Sirop d'érable,855.0
+ISLAT,1,Beverages,2,Chang,190.0
+ISLAT,1,Beverages,34,Sasquatch Ale,156.7999973297119
+ISLAT,1,Beverages,35,Steeleye Stout,143.99999618530273
+ISLAT,1,Beverages,70,Outback Lager,660.0
+ISLAT,1,Beverages,76,Lakkalikööri,266.39999771118164
+KOENE,8,Seafood,13,Konbu,159.60000157356262
+KOENE,8,Seafood,30,Nord-Ost Matjeshering,1071.749984741211
+KOENE,8,Seafood,36,Inlagd Sill,1140.0
+KOENE,8,Seafood,40,Boston Crab Meat,938.3999739646913
+KOENE,7,Produce,14,Tofu,167.40000343322754
+KOENE,6,Meat/Poultry,29,Thüringer Rostbratwurst,2970.9600219726562
+KOENE,6,Meat/Poultry,54,Tourtière,169.85999551802874
+KOENE,6,Meat/Poultry,55,Pâté chinois,1113.5999997854233
+KOENE,4,Dairy Products,11,Queso Cabrales,299.2499997653067
+KOENE,4,Dairy Products,12,Queso Manchego La Pastora,1368.0
+KOENE,4,Dairy Products,31,Gorgonzola Telino,40.0
+KOENE,4,Dairy Products,59,Raclette Courdavault,4279.0
+KOENE,4,Dairy Products,72,Mozzarella di Giovanni,1111.9999694824219
+KOENE,3,Confections,16,Pavlova,349.00001525878906
+KOENE,3,Confections,21,Sir Rodney's Scones,271.99999809265137
+KOENE,3,Confections,25,NuNuCa Nuß-Nougat-Creme,271.5999988615513
+KOENE,3,Confections,26,Gumbär Gummibärchen,1539.6389666358234
+KOENE,3,Confections,49,Maxilaku,285.59999799728394
+KOENE,3,Confections,62,Tarte au sucre,2033.624961182475
+KOENE,2,Condiments,3,Aniseed Syrup,490.0
+KOENE,2,Condiments,6,Grandma's Boysenberry Spread,120.0
+KOENE,2,Condiments,8,Northwoods Cranberry Sauce,1200.0
+KOENE,2,Condiments,15,Genen Shouyu,61.99999809265137
+KOENE,1,Beverages,24,Guaraná Fantástica,121.4999994635582
+KOENE,1,Beverages,38,Côte de Blaye,7905.0
+KOENE,1,Beverages,39,Chartreuse verte,57.599998474121094
+KOENE,1,Beverages,43,Ipoh Coffee,551.9999885559082
+KOENE,1,Beverages,70,Outback Lager,188.99999968707561
+KOENE,1,Beverages,76,Lakkalikööri,630.0
+LACOR,8,Seafood,41,Jack's New England Clam Chowder,57.89999771118164
+LACOR,7,Produce,7,Uncle Bob's Organic Dried Pears,150.0
+LACOR,6,Meat/Poultry,17,Alice Mutton,234.0
+LACOR,5,Grains/Cereals,52,Filo Mix,35.0
+LACOR,4,Dairy Products,33,Geitost,17.5
+LACOR,3,Confections,20,Sir Rodney's Marmalade,405.0
+LACOR,3,Confections,26,Gumbär Gummibärchen,156.14999771118164
+LACOR,3,Confections,27,Schoggi Schokolade,439.00001525878906
+LACOR,1,Beverages,70,Outback Lager,60.0
+LACOR,1,Beverages,75,Rhönbräu Klosterbier,77.5
+LACOR,1,Beverages,76,Lakkalikööri,360.0
+LAMAI,8,Seafood,13,Konbu,14.39999994635582
+LAMAI,8,Seafood,36,Inlagd Sill,661.0099949622154
+LAMAI,8,Seafood,46,Spegesild,76.8000027656555
+LAMAI,7,Produce,28,Rössle Sauerkraut,346.55998813152314
+LAMAI,6,Meat/Poultry,29,Thüringer Rostbratwurst,2352.0100155504047
+LAMAI,6,Meat/Poultry,55,Pâté chinois,144.0000057220459
+LAMAI,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,111.99999958276749
+LAMAI,5,Grains/Cereals,64,Wimmers gute Semmelknödel,99.75
+LAMAI,4,Dairy Products,33,Geitost,31.99999988079071
+LAMAI,4,Dairy Products,69,Gudbrandsdalsost,725.7599795722962
+LAMAI,3,Confections,16,Pavlova,222.39999306797984
+LAMAI,3,Confections,25,NuNuCa Nuß-Nougat-Creme,111.99999958276749
+LAMAI,3,Confections,50,Valkoinen suklaa,175.49999970942736
+LAMAI,3,Confections,62,Tarte au sucre,1576.0000610351562
+LAMAI,2,Condiments,15,Genen Shouyu,176.6999998614192
+LAMAI,2,Condiments,44,Gula Malacca,248.9600088381767
+LAMAI,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,226.79998932480814
+LAMAI,2,Condiments,66,Louisiana Hot Spiced Okra,122.40000323057174
+LAMAI,1,Beverages,1,Chai,345.59999084472656
+LAMAI,1,Beverages,2,Chang,270.74999978765845
+LAMAI,1,Beverages,24,Guaraná Fantástica,70.19999893307686
+LAMAI,1,Beverages,34,Sasquatch Ale,106.39999810457229
+LAMAI,1,Beverages,43,Ipoh Coffee,367.99999862909317
+LAMAI,1,Beverages,67,Laughing Lumberjack Lager,268.79999899864197
+LAMAI,1,Beverages,75,Rhönbräu Klosterbier,55.7999999076128
+LAMAI,1,Beverages,76,Lakkalikööri,417.59998893737793
+LAUGB,8,Seafood,13,Konbu,42.0
+LAUGB,8,Seafood,41,Jack's New England Clam Chowder,153.99999618530273
+LAUGB,5,Grains/Cereals,23,Tunnbröd,71.99999809265137
+LAUGB,5,Grains/Cereals,52,Filo Mix,35.0
+LAUGB,3,Confections,25,NuNuCa Nuß-Nougat-Creme,70.0
+LAUGB,2,Condiments,77,Original Frankfurter grüne Soße,51.99999809265137
+LAUGB,1,Beverages,24,Guaraná Fantástica,22.5
+LAUGB,1,Beverages,70,Outback Lager,75.0
+LAZYK,8,Seafood,40,Boston Crab Meat,146.99999809265137
+LAZYK,4,Dairy Products,11,Queso Cabrales,210.0
+LEHMS,8,Seafood,30,Nord-Ost Matjeshering,1042.0724736008422
+LEHMS,8,Seafood,40,Boston Crab Meat,515.199987399578
+LEHMS,6,Meat/Poultry,17,Alice Mutton,351.00000858306885
+LEHMS,6,Meat/Poultry,29,Thüringer Rostbratwurst,2228.220016479492
+LEHMS,6,Meat/Poultry,54,Tourtière,59.5999982520938
+LEHMS,5,Grains/Cereals,52,Filo Mix,56.0
+LEHMS,5,Grains/Cereals,56,Gnocchi di nonna Alice,425.5999946594238
+LEHMS,5,Grains/Cereals,64,Wimmers gute Semmelknödel,2327.5000190734863
+LEHMS,4,Dairy Products,11,Queso Cabrales,525.0
+LEHMS,4,Dairy Products,12,Queso Manchego La Pastora,427.5
+LEHMS,4,Dairy Products,31,Gorgonzola Telino,500.0
+LEHMS,4,Dairy Products,33,Geitost,75.0
+LEHMS,4,Dairy Products,59,Raclette Courdavault,1375.0
+LEHMS,4,Dairy Products,60,Camembert Pierrot,1300.5000114440918
+LEHMS,4,Dairy Products,69,Gudbrandsdalsost,575.9999978542328
+LEHMS,4,Dairy Products,72,Mozzarella di Giovanni,694.9999809265137
+LEHMS,3,Confections,16,Pavlova,444.97501633465276
+LEHMS,3,Confections,20,Sir Rodney's Marmalade,1360.799994930625
+LEHMS,3,Confections,26,Gumbär Gummibärchen,148.34249770928176
+LEHMS,3,Confections,27,Schoggi Schokolade,394.8749828338623
+LEHMS,3,Confections,68,Scottish Longbreads,37.99999997019768
+LEHMS,2,Condiments,6,Grandma's Boysenberry Spread,500.0
+LEHMS,2,Condiments,8,Northwoods Cranberry Sauce,960.0
+LEHMS,2,Condiments,15,Genen Shouyu,368.12499971129
+LEHMS,2,Condiments,44,Gula Malacca,325.5
+LEHMS,2,Condiments,77,Original Frankfurter grüne Soße,259.99999046325684
+LEHMS,1,Beverages,1,Chai,1187.9999935626984
+LEHMS,1,Beverages,2,Chang,322.9999977350235
+LEHMS,1,Beverages,67,Laughing Lumberjack Lager,41.99999928474426
+LEHMS,1,Beverages,75,Rhönbräu Klosterbier,155.0
+LEHMS,1,Beverages,76,Lakkalikööri,273.5999940633774
+LETSS,8,Seafood,18,Carnarvon Tigers,562.5
+LETSS,8,Seafood,30,Nord-Ost Matjeshering,58.252498626708984
+LETSS,6,Meat/Poultry,54,Tourtière,223.4999942779541
+LETSS,5,Grains/Cereals,56,Gnocchi di nonna Alice,758.0999994054437
+LETSS,3,Confections,21,Sir Rodney's Scones,379.9999997019768
+LETSS,2,Condiments,15,Genen Shouyu,155.0
+LETSS,2,Condiments,61,Sirop d'érable,512.9999991506338
+LETSS,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,239.96999111428858
+LETSS,2,Condiments,77,Original Frankfurter grüne Soße,23.39999996125698
+LETSS,1,Beverages,75,Rhönbräu Klosterbier,162.75
+LILAS,8,Seafood,10,Ikura,595.1999794721604
+LILAS,8,Seafood,13,Konbu,56.999999955296516
+LILAS,8,Seafood,30,Nord-Ost Matjeshering,512.3700141906738
+LILAS,8,Seafood,46,Spegesild,180.0
+LILAS,7,Produce,7,Uncle Bob's Organic Dried Pears,427.4999996647239
+LILAS,7,Produce,28,Rössle Sauerkraut,911.9999694824219
+LILAS,7,Produce,74,Longlife Tofu,112.0
+LILAS,6,Meat/Poultry,54,Tourtière,111.74999713897705
+LILAS,6,Meat/Poultry,55,Pâté chinois,864.0000343322754
+LILAS,5,Grains/Cereals,23,Tunnbröd,535.4999962449074
+LILAS,5,Grains/Cereals,52,Filo Mix,105.0
+LILAS,5,Grains/Cereals,57,Ravioli Angelo,292.5
+LILAS,4,Dairy Products,11,Queso Cabrales,579.5999902188778
+LILAS,4,Dairy Products,12,Queso Manchego La Pastora,968.9999932050705
+LILAS,4,Dairy Products,32,Mascarpone Fabioli,1600.0
+LILAS,4,Dairy Products,59,Raclette Courdavault,1979.9999967217445
+LILAS,4,Dairy Products,60,Camembert Pierrot,1126.0800309371948
+LILAS,4,Dairy Products,69,Gudbrandsdalsost,431.9999885559082
+LILAS,4,Dairy Products,72,Mozzarella di Giovanni,674.1499773561956
+LILAS,3,Confections,16,Pavlova,416.9999885559082
+LILAS,3,Confections,19,Teatime Chocolate Biscuits,131.40000343322754
+LILAS,3,Confections,21,Sir Rodney's Scones,240.0
+LILAS,3,Confections,26,Gumbär Gummibärchen,1456.6499702632427
+LILAS,3,Confections,49,Maxilaku,500.0
+LILAS,2,Condiments,15,Genen Shouyu,247.99999237060547
+LILAS,2,Condiments,77,Original Frankfurter grüne Soße,370.49999970942736
+LILAS,1,Beverages,39,Chartreuse verte,122.39999914169312
+LILAS,1,Beverages,70,Outback Lager,525.0
+LINOD,8,Seafood,18,Carnarvon Tigers,1171.875
+LINOD,8,Seafood,36,Inlagd Sill,712.5
+LINOD,8,Seafood,40,Boston Crab Meat,919.9999809265137
+LINOD,8,Seafood,41,Jack's New England Clam Chowder,243.17998998433353
+LINOD,8,Seafood,45,Rogede sild,475.0
+LINOD,8,Seafood,58,Escargots de Bourgogne,298.125
+LINOD,7,Produce,28,Rössle Sauerkraut,911.9999694824219
+LINOD,6,Meat/Poultry,55,Pâté chinois,518.4000197410583
+LINOD,5,Grains/Cereals,23,Tunnbröd,162.0
+LINOD,5,Grains/Cereals,57,Ravioli Angelo,546.0
+LINOD,4,Dairy Products,31,Gorgonzola Telino,265.62499813735485
+LINOD,4,Dairy Products,60,Camembert Pierrot,693.599995136261
+LINOD,4,Dairy Products,72,Mozzarella di Giovanni,2087.999954223633
+LINOD,3,Confections,16,Pavlova,834.1100335562228
+LINOD,3,Confections,19,Teatime Chocolate Biscuits,186.29999613761902
+LINOD,3,Confections,21,Sir Rodney's Scones,300.0
+LINOD,3,Confections,25,NuNuCa Nuß-Nougat-Creme,403.1999997496605
+LINOD,3,Confections,49,Maxilaku,1200.0
+LINOD,3,Confections,50,Valkoinen suklaa,650.0
+LINOD,2,Condiments,3,Aniseed Syrup,543.9999997615814
+LINOD,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,442.0499839782715
+LINOD,1,Beverages,1,Chai,954.0
+LINOD,1,Beverages,2,Chang,273.59999611377714
+LINOD,1,Beverages,35,Steeleye Stout,553.5
+LINOD,1,Beverages,39,Chartreuse verte,143.9999994635582
+LINOD,1,Beverages,70,Outback Lager,985.4999989271164
+LONEP,8,Seafood,18,Carnarvon Tigers,625.0
+LONEP,7,Produce,28,Rössle Sauerkraut,319.19998931884766
+LONEP,7,Produce,51,Manjimup Dried Apples,1060.0
+LONEP,6,Meat/Poultry,53,Perth Pasties,98.39999771118164
+LONEP,5,Grains/Cereals,56,Gnocchi di nonna Alice,190.0
+LONEP,4,Dairy Products,12,Queso Manchego La Pastora,760.0
+LONEP,4,Dairy Products,59,Raclette Courdavault,55.0
+LONEP,3,Confections,62,Tarte au sucre,394.00001525878906
+LONEP,3,Confections,68,Scottish Longbreads,155.0
+LONEP,1,Beverages,1,Chai,287.99999237060547
+LONEP,1,Beverages,24,Guaraná Fantástica,36.0
+LONEP,1,Beverages,67,Laughing Lumberjack Lager,98.0
+LONEP,1,Beverages,76,Lakkalikööri,180.0
+MAGAA,8,Seafood,36,Inlagd Sill,570.0
+MAGAA,8,Seafood,40,Boston Crab Meat,55.19999885559082
+MAGAA,8,Seafood,41,Jack's New England Clam Chowder,192.99999237060547
+MAGAA,5,Grains/Cereals,22,Gustaf's Knäckebröd,840.0
+MAGAA,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,425.59999241828916
+MAGAA,4,Dairy Products,32,Mascarpone Fabioli,640.0
+MAGAA,4,Dairy Products,59,Raclette Courdavault,250.79999980330467
+MAGAA,4,Dairy Products,72,Mozzarella di Giovanni,887.3999743223192
+MAGAA,3,Confections,25,NuNuCa Nuß-Nougat-Creme,134.39999771118164
+MAGAA,3,Confections,26,Gumbär Gummibärchen,709.6499885715544
+MAGAA,3,Confections,49,Maxilaku,455.99999964237213
+MAGAA,3,Confections,68,Scottish Longbreads,200.0
+MAGAA,2,Condiments,4,Chef Anton's Cajun Seasoning,307.99999967217445
+MAGAA,2,Condiments,5,Chef Anton's Gumbo Mix,288.2250046726316
+MAGAA,2,Condiments,66,Louisiana Hot Spiced Okra,408.0000114440918
+MAGAA,1,Beverages,2,Chang,161.49999886751175
+MAGAA,1,Beverages,24,Guaraná Fantástica,141.8399962103367
+MAGAA,1,Beverages,39,Chartreuse verte,30.59999978542328
+MAGAA,1,Beverages,67,Laughing Lumberjack Lager,475.9999966621399
+MAISD,8,Seafood,40,Boston Crab Meat,183.99999618530273
+MAISD,8,Seafood,45,Rogede sild,142.5
+MAISD,7,Produce,28,Rössle Sauerkraut,911.9999694824219
+MAISD,6,Meat/Poultry,55,Pâté chinois,336.0
+MAISD,5,Grains/Cereals,56,Gnocchi di nonna Alice,608.0
+MAISD,4,Dairy Products,59,Raclette Courdavault,2089.9999983608723
+MAISD,4,Dairy Products,69,Gudbrandsdalsost,360.0
+MAISD,4,Dairy Products,72,Mozzarella di Giovanni,521.9999885559082
+MAISD,3,Confections,21,Sir Rodney's Scones,339.9999976158142
+MAISD,3,Confections,25,NuNuCa Nuß-Nougat-Creme,126.0
+MAISD,3,Confections,26,Gumbär Gummibärchen,187.37999725341797
+MAISD,3,Confections,27,Schoggi Schokolade,1756.0000610351562
+MAISD,3,Confections,68,Scottish Longbreads,250.0
+MAISD,2,Condiments,8,Northwoods Cranberry Sauce,679.9999952316284
+MAISD,2,Condiments,44,Gula Malacca,99.19500319540498
+MAISD,1,Beverages,43,Ipoh Coffee,1035.0
+MAISD,1,Beverages,76,Lakkalikööri,108.0
+MEREP,8,Seafood,10,Ikura,496.0
+MEREP,8,Seafood,18,Carnarvon Tigers,1599.9999940395355
+MEREP,7,Produce,74,Longlife Tofu,240.0
+MEREP,6,Meat/Poultry,17,Alice Mutton,2074.8000491082666
+MEREP,5,Grains/Cereals,22,Gustaf's Knäckebröd,840.0
+MEREP,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,89.59999814033509
+MEREP,5,Grains/Cereals,56,Gnocchi di nonna Alice,2925.9999983012676
+MEREP,5,Grains/Cereals,64,Wimmers gute Semmelknödel,698.2500013969839
+MEREP,4,Dairy Products,11,Queso Cabrales,299.2499997653067
+MEREP,4,Dairy Products,12,Queso Manchego La Pastora,455.9999942779541
+MEREP,4,Dairy Products,31,Gorgonzola Telino,398.9999996870756
+MEREP,4,Dairy Products,59,Raclette Courdavault,1044.9999991804361
+MEREP,4,Dairy Products,60,Camembert Pierrot,2260.999998226762
+MEREP,4,Dairy Products,71,Flotemysost,306.3749997597188
+MEREP,3,Confections,16,Pavlova,719.7250152502208
+MEREP,3,Confections,21,Sir Rodney's Scones,420.0
+MEREP,3,Confections,47,Zaanse koeken,97.27999841690064
+MEREP,3,Confections,62,Tarte au sucre,1251.100040435791
+MEREP,3,Confections,68,Scottish Longbreads,427.4999991059303
+MEREP,2,Condiments,4,Chef Anton's Cajun Seasoning,176.00000381469727
+MEREP,2,Condiments,6,Grandma's Boysenberry Spread,1750.0
+MEREP,2,Condiments,61,Sirop d'érable,142.5
+MEREP,2,Condiments,77,Original Frankfurter grüne Soße,740.9999994188547
+MEREP,1,Beverages,1,Chai,360.0
+MEREP,1,Beverages,24,Guaraná Fantástica,101.24999983236194
+MEREP,1,Beverages,35,Steeleye Stout,691.1999791145325
+MEREP,1,Beverages,38,Côte de Blaye,8263.360088845491
+MORGK,8,Seafood,13,Konbu,120.0
+MORGK,7,Produce,28,Rössle Sauerkraut,728.0000305175781
+MORGK,4,Dairy Products,31,Gorgonzola Telino,125.0
+MORGK,4,Dairy Products,59,Raclette Courdavault,660.0
+MORGK,4,Dairy Products,72,Mozzarella di Giovanni,1043.9999771118164
+MORGK,3,Confections,16,Pavlova,349.00001525878906
+MORGK,3,Confections,47,Zaanse koeken,114.0
+MORGK,3,Confections,62,Tarte au sucre,1458.8000030517578
+MORGK,2,Condiments,63,Vegie-spread,263.40000915527344
+MORGK,1,Beverages,76,Lakkalikööri,180.0
+NORTS,5,Grains/Cereals,52,Filo Mix,42.0
+NORTS,4,Dairy Products,59,Raclette Courdavault,220.0
+NORTS,4,Dairy Products,69,Gudbrandsdalsost,108.0
+NORTS,1,Beverages,1,Chai,144.0
+NORTS,1,Beverages,70,Outback Lager,135.0
+OCEAN,8,Seafood,13,Konbu,30.0
+OCEAN,7,Produce,7,Uncle Bob's Organic Dried Pears,180.0
+OCEAN,7,Produce,14,Tofu,223.20000457763672
+OCEAN,4,Dairy Products,11,Queso Cabrales,630.0
+OCEAN,4,Dairy Products,59,Raclette Courdavault,110.0
+OCEAN,4,Dairy Products,72,Mozzarella di Giovanni,173.99999618530273
+OCEAN,3,Confections,20,Sir Rodney's Marmalade,1215.0
+OCEAN,3,Confections,21,Sir Rodney's Scones,96.0
+OCEAN,2,Condiments,5,Chef Anton's Gumbo Mix,427.00000762939453
+OCEAN,2,Condiments,77,Original Frankfurter grüne Soße,195.0
+OCEAN,1,Beverages,76,Lakkalikööri,180.0
+OLDWO,8,Seafood,18,Carnarvon Tigers,1124.9999981373549
+OLDWO,8,Seafood,30,Nord-Ost Matjeshering,310.5000114440918
+OLDWO,8,Seafood,58,Escargots de Bourgogne,397.5
+OLDWO,7,Produce,51,Manjimup Dried Apples,848.0
+OLDWO,6,Meat/Poultry,17,Alice Mutton,624.0000152587891
+OLDWO,6,Meat/Poultry,29,Thüringer Rostbratwurst,2227.4999963119626
+OLDWO,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,420.0
+OLDWO,5,Grains/Cereals,52,Filo Mix,168.0
+OLDWO,5,Grains/Cereals,56,Gnocchi di nonna Alice,1557.999995470047
+OLDWO,4,Dairy Products,31,Gorgonzola Telino,362.5
+OLDWO,4,Dairy Products,59,Raclette Courdavault,440.0
+OLDWO,3,Confections,16,Pavlova,1875.8750820159912
+OLDWO,3,Confections,21,Sir Rodney's Scones,134.99999977648258
+OLDWO,3,Confections,27,Schoggi Schokolade,1754.9999237060547
+OLDWO,2,Condiments,44,Gula Malacca,233.40000915527344
+OLDWO,2,Condiments,61,Sirop d'érable,171.0
+OLDWO,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,268.3874883905054
+OLDWO,1,Beverages,39,Chartreuse verte,388.79998905658726
+OLDWO,1,Beverages,43,Ipoh Coffee,1104.0
+OLDWO,1,Beverages,76,Lakkalikööri,764.999994635582
+OTTIK,8,Seafood,10,Ikura,632.3999955654144
+OTTIK,8,Seafood,13,Konbu,60.0
+OTTIK,8,Seafood,40,Boston Crab Meat,367.99999237060547
+OTTIK,8,Seafood,41,Jack's New England Clam Chowder,358.25748699318615
+OTTIK,7,Produce,7,Uncle Bob's Organic Dried Pears,1589.9999991059303
+OTTIK,7,Produce,14,Tofu,331.312499740161
+OTTIK,7,Produce,51,Manjimup Dried Apples,755.2499994076788
+OTTIK,6,Meat/Poultry,53,Perth Pasties,265.67999338030813
+OTTIK,5,Grains/Cereals,23,Tunnbröd,170.99999986588955
+OTTIK,5,Grains/Cereals,57,Ravioli Angelo,780.0000190734863
+OTTIK,4,Dairy Products,11,Queso Cabrales,503.9999771118164
+OTTIK,4,Dairy Products,31,Gorgonzola Telino,101.24999983236194
+OTTIK,4,Dairy Products,60,Camembert Pierrot,1020.0
+OTTIK,4,Dairy Products,69,Gudbrandsdalsost,431.9999885559082
+OTTIK,4,Dairy Products,71,Flotemysost,258.0000114440918
+OTTIK,3,Confections,16,Pavlova,497.3250213537365
+OTTIK,3,Confections,47,Zaanse koeken,380.0
+OTTIK,3,Confections,62,Tarte au sucre,1379.9500019356608
+OTTIK,3,Confections,68,Scottish Longbreads,500.0
+OTTIK,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,599.9249777857215
+OTTIK,2,Condiments,77,Original Frankfurter grüne Soße,382.8499996997416
+OTTIK,1,Beverages,2,Chang,760.0
+OTTIK,1,Beverages,39,Chartreuse verte,180.0
+OTTIK,1,Beverages,70,Outback Lager,189.0
+PERIC,8,Seafood,40,Boston Crab Meat,308.69999599456787
+PERIC,8,Seafood,45,Rogede sild,199.5
+PERIC,7,Produce,14,Tofu,223.20000457763672
+PERIC,7,Produce,28,Rössle Sauerkraut,655.2000274658203
+PERIC,7,Produce,51,Manjimup Dried Apples,1060.0
+PERIC,6,Meat/Poultry,29,Thüringer Rostbratwurst,396.0
+PERIC,6,Meat/Poultry,53,Perth Pasties,196.79999542236328
+PERIC,5,Grains/Cereals,52,Filo Mix,111.99999809265137
+PERIC,4,Dairy Products,11,Queso Cabrales,210.0
+PERIC,4,Dairy Products,60,Camembert Pierrot,136.0
+PERIC,1,Beverages,1,Chai,172.79999542236328
+PERIC,1,Beverages,24,Guaraná Fantástica,90.0
+PERIC,1,Beverages,67,Laughing Lumberjack Lager,420.0
+PERIC,1,Beverages,75,Rhönbräu Klosterbier,61.99999809265137
+PICCO,8,Seafood,18,Carnarvon Tigers,1749.999993480742
+PICCO,8,Seafood,41,Jack's New England Clam Chowder,337.74998664855957
+PICCO,7,Produce,14,Tofu,651.0000133514404
+PICCO,6,Meat/Poultry,17,Alice Mutton,2495.9999965131283
+PICCO,5,Grains/Cereals,22,Gustaf's Knäckebröd,735.0
+PICCO,5,Grains/Cereals,57,Ravioli Angelo,390.0
+PICCO,5,Grains/Cereals,64,Wimmers gute Semmelknödel,664.999997522682
+PICCO,4,Dairy Products,11,Queso Cabrales,350.2799834918976
+PICCO,4,Dairy Products,31,Gorgonzola Telino,100.0
+PICCO,4,Dairy Products,32,Mascarpone Fabioli,640.0
+PICCO,4,Dairy Products,69,Gudbrandsdalsost,2519.9999618530273
+PICCO,3,Confections,16,Pavlova,250.19999313354492
+PICCO,3,Confections,26,Gumbär Gummibärchen,468.4499931335449
+PICCO,2,Condiments,61,Sirop d'érable,570.0
+PICCO,2,Condiments,63,Vegie-spread,395.10001373291016
+PICCO,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,202.0799919229746
+PICCO,1,Beverages,24,Guaraná Fantástica,125.99999953061342
+PICCO,1,Beverages,38,Côte de Blaye,8432.000090658665
+PICCO,1,Beverages,43,Ipoh Coffee,1150.0
+PICCO,1,Beverages,76,Lakkalikööri,900.0
+PRINI,7,Produce,51,Manjimup Dried Apples,648.7200187969206
+PRINI,6,Meat/Poultry,29,Thüringer Rostbratwurst,1237.9000091552734
+PRINI,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,196.0
+PRINI,5,Grains/Cereals,56,Gnocchi di nonna Alice,851.1999893188477
+PRINI,3,Confections,21,Sir Rodney's Scones,193.99999952316284
+PRINI,2,Condiments,4,Chef Anton's Cajun Seasoning,285.1200057077408
+PRINI,2,Condiments,8,Northwoods Cranberry Sauce,1200.0
+PRINI,1,Beverages,1,Chai,215.9999942779541
+PRINI,1,Beverages,39,Chartreuse verte,215.9999942779541
+QUEDE,8,Seafood,13,Konbu,86.40000329017639
+QUEDE,8,Seafood,41,Jack's New England Clam Chowder,94.03999700903893
+QUEDE,7,Produce,14,Tofu,278.999998960644
+QUEDE,7,Produce,51,Manjimup Dried Apples,76.32000262022018
+QUEDE,6,Meat/Poultry,53,Perth Pasties,334.0500073850154
+QUEDE,6,Meat/Poultry,54,Tourtière,35.75999895125628
+QUEDE,4,Dairy Products,11,Queso Cabrales,315.0
+QUEDE,4,Dairy Products,71,Flotemysost,172.0
+QUEDE,3,Confections,19,Teatime Chocolate Biscuits,300.81999475240707
+QUEDE,3,Confections,21,Sir Rodney's Scones,160.0
+QUEDE,3,Confections,26,Gumbär Gummibärchen,934.3799858093262
+QUEDE,2,Condiments,6,Grandma's Boysenberry Spread,1000.0
+QUEDE,2,Condiments,44,Gula Malacca,334.7999994456768
+QUEDE,2,Condiments,63,Vegie-spread,505.4399771904946
+QUEDE,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,302.39998576641085
+QUEDE,2,Condiments,77,Original Frankfurter grüne Soße,348.39999613761904
+QUEDE,1,Beverages,35,Steeleye Stout,1025.9999923706055
+QUEDE,1,Beverages,39,Chartreuse verte,360.0
+QUEEN,8,Seafood,30,Nord-Ost Matjeshering,699.0299823631346
+QUEEN,8,Seafood,36,Inlagd Sill,68.39999902844428
+QUEEN,8,Seafood,40,Boston Crab Meat,556.3799882975221
+QUEEN,8,Seafood,58,Escargots de Bourgogne,198.75
+QUEEN,7,Produce,28,Rössle Sauerkraut,1686.0000428497792
+QUEEN,6,Meat/Poultry,54,Tourtière,106.20000171661377
+QUEEN,6,Meat/Poultry,55,Pâté chinois,288.0
+QUEEN,5,Grains/Cereals,52,Filo Mix,39.89999996870756
+QUEEN,5,Grains/Cereals,56,Gnocchi di nonna Alice,2165.9999983012676
+QUEEN,4,Dairy Products,11,Queso Cabrales,210.0
+QUEEN,4,Dairy Products,31,Gorgonzola Telino,237.49999981373549
+QUEEN,4,Dairy Products,33,Geitost,75.0
+QUEEN,4,Dairy Products,60,Camembert Pierrot,1938.0000400543213
+QUEEN,4,Dairy Products,71,Flotemysost,537.5
+QUEEN,4,Dairy Products,72,Mozzarella di Giovanni,875.6999759674072
+QUEEN,3,Confections,19,Teatime Chocolate Biscuits,36.500000953674316
+QUEEN,3,Confections,20,Sir Rodney's Marmalade,583.2000274658203
+QUEEN,3,Confections,21,Sir Rodney's Scones,215.99999964237213
+QUEEN,3,Confections,26,Gumbär Gummibärchen,1371.5999794006348
+QUEEN,3,Confections,48,Chocolade,306.0
+QUEEN,3,Confections,49,Maxilaku,755.9999987483025
+QUEEN,3,Confections,50,Valkoinen suklaa,385.93749969732016
+QUEEN,2,Condiments,4,Chef Anton's Cajun Seasoning,627.0
+QUEEN,2,Condiments,8,Northwoods Cranberry Sauce,959.9999964237213
+QUEEN,2,Condiments,77,Original Frankfurter grüne Soße,309.39999783039093
+QUEEN,1,Beverages,1,Chai,143.99999618530273
+QUEEN,1,Beverages,24,Guaraná Fantástica,157.5
+QUEEN,1,Beverages,35,Steeleye Stout,540.0
+QUEEN,1,Beverages,38,Côte de Blaye,6324.000091552734
+QUEEN,1,Beverages,43,Ipoh Coffee,1407.5999901294708
+QUEEN,1,Beverages,70,Outback Lager,569.9999995529652
+QUEEN,1,Beverages,75,Rhönbräu Klosterbier,260.3999990299344
+QUEEN,1,Beverages,76,Lakkalikööri,1080.0
+QUICK,8,Seafood,10,Ikura,565.4399821615219
+QUICK,8,Seafood,13,Konbu,552.0
+QUICK,8,Seafood,18,Carnarvon Tigers,3499.9999925494194
+QUICK,8,Seafood,36,Inlagd Sill,695.3999968618155
+QUICK,8,Seafood,40,Boston Crab Meat,2531.8999542877077
+QUICK,8,Seafood,45,Rogede sild,807.4999943375587
+QUICK,8,Seafood,58,Escargots de Bourgogne,715.4999988153577
+QUICK,7,Produce,7,Uncle Bob's Organic Dried Pears,4050.0
+QUICK,7,Produce,51,Manjimup Dried Apples,3911.3999848365784
+QUICK,7,Produce,74,Longlife Tofu,120.0
+QUICK,6,Meat/Poultry,9,Mishi Kobe Niku,1319.1999907493591
+QUICK,6,Meat/Poultry,29,Thüringer Rostbratwurst,4951.600036621094
+QUICK,6,Meat/Poultry,53,Perth Pasties,1410.560003902912
+QUICK,6,Meat/Poultry,55,Pâté chinois,2073.600078964233
+QUICK,5,Grains/Cereals,23,Tunnbröd,566.9999990612268
+QUICK,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,2309.999993234873
+QUICK,5,Grains/Cereals,64,Wimmers gute Semmelknödel,2433.900010628998
+QUICK,4,Dairy Products,31,Gorgonzola Telino,726.874995790422
+QUICK,4,Dairy Products,33,Geitost,73.99999976158142
+QUICK,4,Dairy Products,59,Raclette Courdavault,3850.0
+QUICK,4,Dairy Products,60,Camembert Pierrot,6800.0000171199445
+QUICK,4,Dairy Products,69,Gudbrandsdalsost,324.0
+QUICK,4,Dairy Products,71,Flotemysost,564.375
+QUICK,4,Dairy Products,72,Mozzarella di Giovanni,1461.599967956543
+QUICK,3,Confections,16,Pavlova,872.5000381469727
+QUICK,3,Confections,19,Teatime Chocolate Biscuits,1021.0000058561563
+QUICK,3,Confections,20,Sir Rodney's Marmalade,2753.999998793006
+QUICK,3,Confections,21,Sir Rodney's Scones,600.0
+QUICK,3,Confections,26,Gumbär Gummibärchen,3216.689952850342
+QUICK,3,Confections,27,Schoggi Schokolade,5268.000183105469
+QUICK,3,Confections,47,Zaanse koeken,417.99999475479126
+QUICK,3,Confections,62,Tarte au sucre,3942.4000244140625
+QUICK,3,Confections,68,Scottish Longbreads,437.5
+QUICK,2,Condiments,3,Aniseed Syrup,600.0
+QUICK,2,Condiments,4,Chef Anton's Cajun Seasoning,989.9999983608723
+QUICK,2,Condiments,8,Northwoods Cranberry Sauce,2240.0
+QUICK,2,Condiments,44,Gula Malacca,1701.8750660326332
+QUICK,2,Condiments,61,Sirop d'érable,364.79998779296875
+QUICK,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,1938.9599226319792
+QUICK,2,Condiments,77,Original Frankfurter grüne Soße,1379.2999795868993
+QUICK,1,Beverages,1,Chai,1058.3999843358993
+QUICK,1,Beverages,2,Chang,1828.7499857246876
+QUICK,1,Beverages,35,Steeleye Stout,1844.999961182475
+QUICK,1,Beverages,38,Côte de Blaye,22924.499988220632
+QUICK,1,Beverages,39,Chartreuse verte,2067.8399792289733
+QUICK,1,Beverages,43,Ipoh Coffee,2668.0
+QUICK,1,Beverages,70,Outback Lager,989.9999991059303
+QUICK,1,Beverages,75,Rhönbräu Klosterbier,294.499999769032
+QUICK,1,Beverages,76,Lakkalikööri,2539.439982858896
+RANCH,8,Seafood,40,Boston Crab Meat,293.99999618530273
+RANCH,8,Seafood,46,Spegesild,36.0
+RANCH,7,Produce,51,Manjimup Dried Apples,371.0
+RANCH,5,Grains/Cereals,57,Ravioli Angelo,390.0
+RANCH,4,Dairy Products,32,Mascarpone Fabioli,192.0
+RANCH,3,Confections,16,Pavlova,104.70000457763672
+RANCH,3,Confections,20,Sir Rodney's Marmalade,405.0
+RANCH,3,Confections,21,Sir Rodney's Scones,50.0
+RANCH,3,Confections,26,Gumbär Gummibärchen,149.39999771118164
+RANCH,3,Confections,49,Maxilaku,40.0
+RANCH,2,Condiments,61,Sirop d'érable,285.0
+RANCH,1,Beverages,38,Côte de Blaye,527.0
+RATTC,8,Seafood,10,Ikura,31.0
+RATTC,8,Seafood,13,Konbu,24.0
+RATTC,8,Seafood,30,Nord-Ost Matjeshering,372.60001373291016
+RATTC,8,Seafood,41,Jack's New England Clam Chowder,105.94999694824219
+RATTC,8,Seafood,46,Spegesild,35.280000016093254
+RATTC,8,Seafood,58,Escargots de Bourgogne,286.20000982582565
+RATTC,8,Seafood,73,Röd Kaviar,29.700000006705523
+RATTC,7,Produce,7,Uncle Bob's Organic Dried Pears,2188.4999999776483
+RATTC,7,Produce,14,Tofu,22.55250001559034
+RATTC,6,Meat/Poultry,17,Alice Mutton,2305.6800340247155
+RATTC,6,Meat/Poultry,53,Perth Pasties,733.6000213623047
+RATTC,6,Meat/Poultry,55,Pâté chinois,617.9999995529652
+RATTC,5,Grains/Cereals,23,Tunnbröd,18.0
+RATTC,5,Grains/Cereals,52,Filo Mix,14.0
+RATTC,5,Grains/Cereals,56,Gnocchi di nonna Alice,3936.799964904785
+RATTC,5,Grains/Cereals,64,Wimmers gute Semmelknödel,862.5050114886835
+RATTC,4,Dairy Products,11,Queso Cabrales,840.0
+RATTC,4,Dairy Products,12,Queso Manchego La Pastora,72.19999994337559
+RATTC,4,Dairy Products,31,Gorgonzola Telino,821.249998640269
+RATTC,4,Dairy Products,32,Mascarpone Fabioli,953.6000122070312
+RATTC,4,Dairy Products,59,Raclette Courdavault,2640.0
+RATTC,4,Dairy Products,60,Camembert Pierrot,635.1200161129236
+RATTC,4,Dairy Products,71,Flotemysost,1225.5000457763672
+RATTC,4,Dairy Products,72,Mozzarella di Giovanni,667.1999816894531
+RATTC,3,Confections,16,Pavlova,33.853001503504814
+RATTC,3,Confections,20,Sir Rodney's Marmalade,466.5600183829665
+RATTC,3,Confections,25,NuNuCa Nuß-Nougat-Creme,367.5
+RATTC,3,Confections,27,Schoggi Schokolade,2195.0000762939453
+RATTC,3,Confections,62,Tarte au sucre,7884.300071124732
+RATTC,2,Condiments,3,Aniseed Syrup,40.0
+RATTC,2,Condiments,4,Chef Anton's Cajun Seasoning,434.5
+RATTC,2,Condiments,5,Chef Anton's Gumbo Mix,163.19999939203262
+RATTC,2,Condiments,6,Grandma's Boysenberry Spread,24.50000001117587
+RATTC,2,Condiments,8,Northwoods Cranberry Sauce,71.99999988079071
+RATTC,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,335.99998474121094
+RATTC,2,Condiments,66,Louisiana Hot Spiced Okra,17.0
+RATTC,2,Condiments,77,Original Frankfurter grüne Soße,416.0
+RATTC,1,Beverages,1,Chai,259.1999931335449
+RATTC,1,Beverages,2,Chang,649.7999986410141
+RATTC,1,Beverages,24,Guaraná Fantástica,101.25
+RATTC,1,Beverages,38,Côte de Blaye,16864.000091552734
+RATTC,1,Beverages,39,Chartreuse verte,34.19999997317791
+RATTC,1,Beverages,43,Ipoh Coffee,551.9999885559082
+RATTC,1,Beverages,75,Rhönbräu Klosterbier,207.69999885559082
+RATTC,1,Beverages,76,Lakkalikööri,540.0
+REGGC,8,Seafood,41,Jack's New England Clam Chowder,154.39999332129958
+REGGC,8,Seafood,46,Spegesild,192.00000762939453
+REGGC,7,Produce,7,Uncle Bob's Organic Dried Pears,1169.9999995529652
+REGGC,7,Produce,28,Rössle Sauerkraut,436.8000183105469
+REGGC,6,Meat/Poultry,17,Alice Mutton,740.9999994188547
+REGGC,6,Meat/Poultry,53,Perth Pasties,262.3999929189682
+REGGC,6,Meat/Poultry,54,Tourtière,53.10000077039003
+REGGC,5,Grains/Cereals,52,Filo Mix,116.8999997600913
+REGGC,5,Grains/Cereals,56,Gnocchi di nonna Alice,360.99999971687794
+REGGC,4,Dairy Products,11,Queso Cabrales,80.63999603748323
+REGGC,4,Dairy Products,31,Gorgonzola Telino,179.99999970197678
+REGGC,4,Dairy Products,33,Geitost,44.999999925494194
+REGGC,4,Dairy Products,59,Raclette Courdavault,522.4999995902181
+REGGC,4,Dairy Products,72,Mozzarella di Giovanni,1252.799970459938
+REGGC,3,Confections,49,Maxilaku,560.0
+REGGC,3,Confections,62,Tarte au sucre,443.6999923989177
+REGGC,3,Confections,68,Scottish Longbreads,26.999999955296516
+REGGC,2,Condiments,77,Original Frankfurter grüne Soße,260.0
+REGGC,1,Beverages,24,Guaraná Fantástica,45.0
+REGGC,1,Beverages,70,Outback Lager,143.9999994635582
+RICAR,8,Seafood,13,Konbu,180.0
+RICAR,8,Seafood,18,Carnarvon Tigers,1562.5
+RICAR,8,Seafood,36,Inlagd Sill,475.0
+RICAR,8,Seafood,46,Spegesild,542.400004005432
+RICAR,6,Meat/Poultry,17,Alice Mutton,468.0
+RICAR,5,Grains/Cereals,22,Gustaf's Knäckebröd,315.0
+RICAR,5,Grains/Cereals,52,Filo Mix,490.0
+RICAR,5,Grains/Cereals,57,Ravioli Angelo,185.24999985471368
+RICAR,4,Dairy Products,59,Raclette Courdavault,2194.499998278916
+RICAR,4,Dairy Products,60,Camembert Pierrot,2278.000030517578
+RICAR,4,Dairy Products,71,Flotemysost,34.400001525878906
+RICAR,3,Confections,16,Pavlova,865.2250008821488
+RICAR,3,Confections,19,Teatime Chocolate Biscuits,401.5000104904175
+RICAR,3,Confections,25,NuNuCa Nuß-Nougat-Creme,132.99999989569187
+RICAR,3,Confections,49,Maxilaku,384.0
+RICAR,3,Confections,68,Scottish Longbreads,179.99999932944775
+RICAR,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,587.9999732971191
+RICAR,1,Beverages,2,Chang,652.6499992497265
+RICAR,1,Beverages,24,Guaraná Fantástica,57.37499959766865
+RICAR,1,Beverages,34,Sasquatch Ale,223.99999618530273
+RICAR,1,Beverages,70,Outback Lager,240.0
+RICSU,8,Seafood,13,Konbu,214.19999849796295
+RICSU,8,Seafood,30,Nord-Ost Matjeshering,776.6999816894531
+RICSU,8,Seafood,36,Inlagd Sill,379.9999952316284
+RICSU,8,Seafood,41,Jack's New England Clam Chowder,55.0049977824837
+RICSU,8,Seafood,46,Spegesild,305.9999978542328
+RICSU,8,Seafood,58,Escargots de Bourgogne,265.0
+RICSU,8,Seafood,73,Röd Kaviar,360.0
+RICSU,7,Produce,51,Manjimup Dried Apples,318.0
+RICSU,6,Meat/Poultry,29,Thüringer Rostbratwurst,4456.440032958984
+RICSU,6,Meat/Poultry,53,Perth Pasties,2066.3999485135078
+RICSU,5,Grains/Cereals,52,Filo Mix,420.0
+RICSU,5,Grains/Cereals,57,Ravioli Angelo,585.0
+RICSU,4,Dairy Products,31,Gorgonzola Telino,375.0
+RICSU,4,Dairy Products,33,Geitost,35.62499997206032
+RICSU,4,Dairy Products,59,Raclette Courdavault,1320.0
+RICSU,4,Dairy Products,60,Camembert Pierrot,1550.400042271614
+RICSU,4,Dairy Products,69,Gudbrandsdalsost,1713.5999831438064
+RICSU,4,Dairy Products,72,Mozzarella di Giovanni,730.7999839782715
+RICSU,3,Confections,16,Pavlova,486.49998664855957
+RICSU,3,Confections,26,Gumbär Gummibärchen,961.883985342443
+RICSU,3,Confections,50,Valkoinen suklaa,292.49999951571226
+RICSU,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,210.49999237060547
+RICSU,1,Beverages,2,Chang,465.4999950528145
+RICSU,1,Beverages,70,Outback Lager,600.0
+RICSU,1,Beverages,75,Rhönbräu Klosterbier,368.12499971129
+RICSU,1,Beverages,76,Lakkalikööri,30.59999978542328
+ROMEY,8,Seafood,30,Nord-Ost Matjeshering,357.0900115966797
+ROMEY,8,Seafood,45,Rogede sild,190.0
+ROMEY,6,Meat/Poultry,53,Perth Pasties,262.00000762939453
+ROMEY,6,Meat/Poultry,54,Tourtière,29.500000476837158
+ROMEY,5,Grains/Cereals,23,Tunnbröd,90.0
+ROMEY,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,56.0
+ROMEY,5,Grains/Cereals,57,Ravioli Angelo,31.200000762939453
+ROMEY,4,Dairy Products,60,Camembert Pierrot,340.0
+ROMEY,3,Confections,19,Teatime Chocolate Biscuits,7.300000190734863
+ROMEY,3,Confections,68,Scottish Longbreads,25.0
+ROMEY,1,Beverages,24,Guaraná Fantástica,21.59999942779541
+ROMEY,1,Beverages,35,Steeleye Stout,57.599998474121094
+SANTG,8,Seafood,18,Carnarvon Tigers,500.0
+SANTG,8,Seafood,30,Nord-Ost Matjeshering,388.34999084472656
+SANTG,8,Seafood,41,Jack's New England Clam Chowder,48.24999809265137
+SANTG,7,Produce,7,Uncle Bob's Organic Dried Pears,360.0
+SANTG,7,Produce,28,Rössle Sauerkraut,218.40000915527344
+SANTG,6,Meat/Poultry,53,Perth Pasties,163.99999618530273
+SANTG,4,Dairy Products,59,Raclette Courdavault,528.0
+SANTG,4,Dairy Products,71,Flotemysost,258.0000114440918
+SANTG,3,Confections,16,Pavlova,261.7500114440918
+SANTG,3,Confections,19,Teatime Chocolate Biscuits,18.399999618530273
+SANTG,2,Condiments,77,Original Frankfurter grüne Soße,234.0
+SANTG,1,Beverages,24,Guaraná Fantástica,89.99999856948853
+SANTG,1,Beverages,35,Steeleye Stout,144.0
+SANTG,1,Beverages,38,Côte de Blaye,2108.0
+SANTG,1,Beverages,43,Ipoh Coffee,414.0
+SAVEA,8,Seafood,10,Ikura,2728.0
+SAVEA,8,Seafood,13,Konbu,1403.9999968707561
+SAVEA,8,Seafood,36,Inlagd Sill,1805.0
+SAVEA,8,Seafood,37,Gravad lax,1247.9999953508377
+SAVEA,8,Seafood,40,Boston Crab Meat,1508.7999687194824
+SAVEA,8,Seafood,41,Jack's New England Clam Chowder,1910.6999244689941
+SAVEA,8,Seafood,45,Rogede sild,1318.5999989807606
+SAVEA,8,Seafood,46,Spegesild,1116.0000114440918
+SAVEA,8,Seafood,58,Escargots de Bourgogne,119.25
+SAVEA,8,Seafood,73,Röd Kaviar,446.24999687075615
+SAVEA,7,Produce,7,Uncle Bob's Organic Dried Pears,1350.0
+SAVEA,7,Produce,14,Tofu,1143.9000099375844
+SAVEA,7,Produce,28,Rössle Sauerkraut,546.0000228881836
+SAVEA,7,Produce,51,Manjimup Dried Apples,847.9999968409538
+SAVEA,6,Meat/Poultry,17,Alice Mutton,7392.449995525181
+SAVEA,6,Meat/Poultry,29,Thüringer Rostbratwurst,12046.590059995651
+SAVEA,6,Meat/Poultry,53,Perth Pasties,4673.999890059233
+SAVEA,6,Meat/Poultry,54,Tourtière,426.1399876689911
+SAVEA,6,Meat/Poultry,55,Pâté chinois,3120.000078821182
+SAVEA,5,Grains/Cereals,22,Gustaf's Knäckebröd,1008.0
+SAVEA,5,Grains/Cereals,23,Tunnbröd,396.0
+SAVEA,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,635.5999979972839
+SAVEA,5,Grains/Cereals,56,Gnocchi di nonna Alice,4502.999995470047
+SAVEA,5,Grains/Cereals,57,Ravioli Angelo,292.5
+SAVEA,5,Grains/Cereals,64,Wimmers gute Semmelknödel,1463.0
+SAVEA,4,Dairy Products,12,Queso Manchego La Pastora,3800.0
+SAVEA,4,Dairy Products,31,Gorgonzola Telino,1357.5
+SAVEA,4,Dairy Products,33,Geitost,150.0
+SAVEA,4,Dairy Products,59,Raclette Courdavault,6005.9999895095825
+SAVEA,4,Dairy Products,60,Camembert Pierrot,3603.9999954402447
+SAVEA,4,Dairy Products,69,Gudbrandsdalsost,1709.9999986588955
+SAVEA,4,Dairy Products,71,Flotemysost,2321.999992631376
+SAVEA,4,Dairy Products,72,Mozzarella di Giovanni,2157.599952697754
+SAVEA,3,Confections,16,Pavlova,1786.8000134646893
+SAVEA,3,Confections,19,Teatime Chocolate Biscuits,456.3199892508984
+SAVEA,3,Confections,25,NuNuCa Nuß-Nougat-Creme,58.79999899864197
+SAVEA,3,Confections,26,Gumbär Gummibärchen,2244.149966239929
+SAVEA,3,Confections,47,Zaanse koeken,451.25
+SAVEA,3,Confections,49,Maxilaku,1174.9999972432852
+SAVEA,3,Confections,62,Tarte au sucre,3327.749948501587
+SAVEA,3,Confections,68,Scottish Longbreads,2399.999998509884
+SAVEA,2,Condiments,5,Chef Anton's Gumbo Mix,1494.5000267028809
+SAVEA,2,Condiments,15,Genen Shouyu,775.0
+SAVEA,2,Condiments,44,Gula Malacca,1472.49999884516
+SAVEA,2,Condiments,61,Sirop d'érable,1744.1999294042591
+SAVEA,2,Condiments,63,Vegie-spread,2386.799879503251
+SAVEA,1,Beverages,1,Chai,2033.9999954402447
+SAVEA,1,Beverages,2,Chang,2775.899985051155
+SAVEA,1,Beverages,24,Guaraná Fantástica,249.2999997586012
+SAVEA,1,Beverages,34,Sasquatch Ale,554.399999499321
+SAVEA,1,Beverages,35,Steeleye Stout,1518.2999582409861
+SAVEA,1,Beverages,75,Rhönbräu Klosterbier,1460.0999988913536
+SAVEA,1,Beverages,76,Lakkalikööri,1440.0
+SEVES,8,Seafood,10,Ikura,1116.0
+SEVES,8,Seafood,36,Inlagd Sill,1140.0
+SEVES,8,Seafood,37,Gravad lax,421.19999930262566
+SEVES,8,Seafood,41,Jack's New England Clam Chowder,52.10999785378576
+SEVES,8,Seafood,45,Rogede sild,91.19999851584436
+SEVES,7,Produce,28,Rössle Sauerkraut,1713.1999849796293
+SEVES,7,Produce,51,Manjimup Dried Apples,1240.2000266760588
+SEVES,6,Meat/Poultry,17,Alice Mutton,877.4999985471368
+SEVES,6,Meat/Poultry,53,Perth Pasties,1048.0000305175781
+SEVES,6,Meat/Poultry,54,Tourtière,46.93499872066081
+SEVES,5,Grains/Cereals,23,Tunnbröd,450.0
+SEVES,5,Grains/Cereals,52,Filo Mix,89.59999814033509
+SEVES,4,Dairy Products,11,Queso Cabrales,1154.999998435378
+SEVES,4,Dairy Products,31,Gorgonzola Telino,664.9999994784594
+SEVES,4,Dairy Products,32,Mascarpone Fabioli,652.7999954223633
+SEVES,4,Dairy Products,60,Camembert Pierrot,2067.2000563621523
+SEVES,3,Confections,16,Pavlova,739.4799791258574
+SEVES,3,Confections,20,Sir Rodney's Marmalade,1093.499998189509
+SEVES,3,Confections,49,Maxilaku,67.99999952316284
+SEVES,3,Confections,68,Scottish Longbreads,250.0
+SEVES,1,Beverages,1,Chai,720.0
+SEVES,1,Beverages,24,Guaraná Fantástica,273.59999253749845
+SEVES,1,Beverages,39,Chartreuse verte,244.79999179840092
+SIMOB,8,Seafood,30,Nord-Ost Matjeshering,485.4374885559082
+SIMOB,8,Seafood,36,Inlagd Sill,570.0
+SIMOB,8,Seafood,46,Spegesild,14.40000057220459
+SIMOB,7,Produce,51,Manjimup Dried Apples,1192.5
+SIMOB,6,Meat/Poultry,55,Pâté chinois,1080.0
+SIMOB,4,Dairy Products,33,Geitost,16.0
+SIMOB,4,Dairy Products,59,Raclette Courdavault,336.59999763965607
+SIMOB,4,Dairy Products,72,Mozzarella di Giovanni,835.1999816894531
+SIMOB,3,Confections,16,Pavlova,232.08500996507703
+SIMOB,3,Confections,21,Sir Rodney's Scones,239.99999910593033
+SIMOB,3,Confections,62,Tarte au sucre,184.87499713897705
+SIMOB,3,Confections,68,Scottish Longbreads,270.0
+SIMOB,2,Condiments,61,Sirop d'érable,455.9999983012676
+SIMOB,2,Condiments,77,Original Frankfurter grüne Soße,363.99998664855957
+SIMOB,1,Beverages,38,Côte de Blaye,10540.00015258789
+SPECD,8,Seafood,18,Carnarvon Tigers,375.0
+SPECD,4,Dairy Products,11,Queso Cabrales,210.0
+SPECD,4,Dairy Products,69,Gudbrandsdalsost,360.0
+SPECD,3,Confections,16,Pavlova,52.35000228881836
+SPECD,1,Beverages,38,Côte de Blaye,1317.5
+SPECD,1,Beverages,75,Rhönbräu Klosterbier,108.5
+SPLIR,8,Seafood,18,Carnarvon Tigers,1049.9999960884452
+SPLIR,8,Seafood,30,Nord-Ost Matjeshering,157.32000567495822
+SPLIR,8,Seafood,36,Inlagd Sill,303.99999886751175
+SPLIR,7,Produce,7,Uncle Bob's Organic Dried Pears,191.99999928474426
+SPLIR,7,Produce,51,Manjimup Dried Apples,318.0
+SPLIR,6,Meat/Poultry,29,Thüringer Rostbratwurst,1980.0
+SPLIR,6,Meat/Poultry,54,Tourtière,377.6000061035156
+SPLIR,5,Grains/Cereals,56,Gnocchi di nonna Alice,756.9599902296067
+SPLIR,4,Dairy Products,33,Geitost,48.0
+SPLIR,4,Dairy Products,60,Camembert Pierrot,435.20001058578487
+SPLIR,4,Dairy Products,69,Gudbrandsdalsost,575.9999978542328
+SPLIR,3,Confections,19,Teatime Chocolate Biscuits,69.35000175759197
+SPLIR,3,Confections,26,Gumbär Gummibärchen,248.99999618530273
+SPLIR,3,Confections,68,Scottish Longbreads,123.999999538064
+SPLIR,2,Condiments,63,Vegie-spread,439.00001525878906
+SPLIR,1,Beverages,35,Steeleye Stout,360.0
+SPLIR,1,Beverages,38,Côte de Blaye,4005.200054842234
+SUPRD,8,Seafood,10,Ikura,496.0
+SUPRD,8,Seafood,40,Boston Crab Meat,73.59999819993973
+SUPRD,8,Seafood,58,Escargots de Bourgogne,317.9999988153577
+SUPRD,7,Produce,28,Rössle Sauerkraut,2111.2000885009766
+SUPRD,7,Produce,74,Longlife Tofu,200.0
+SUPRD,6,Meat/Poultry,17,Alice Mutton,1248.0000305175781
+SUPRD,6,Meat/Poultry,54,Tourtière,74.49999809265137
+SUPRD,6,Meat/Poultry,55,Pâté chinois,479.99999821186066
+SUPRD,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,1007.9999904632568
+SUPRD,5,Grains/Cereals,52,Filo Mix,14.0
+SUPRD,5,Grains/Cereals,56,Gnocchi di nonna Alice,1595.999994277954
+SUPRD,4,Dairy Products,31,Gorgonzola Telino,297.49999791383743
+SUPRD,4,Dairy Products,33,Geitost,47.4999999627471
+SUPRD,4,Dairy Products,59,Raclette Courdavault,2750.0
+SUPRD,4,Dairy Products,60,Camembert Pierrot,1088.0000305175781
+SUPRD,4,Dairy Products,71,Flotemysost,1505.0000381469727
+SUPRD,3,Confections,19,Teatime Chocolate Biscuits,153.30000400543213
+SUPRD,3,Confections,20,Sir Rodney's Marmalade,2462.4001140356063
+SUPRD,3,Confections,21,Sir Rodney's Scones,360.0
+SUPRD,3,Confections,26,Gumbär Gummibärchen,746.9999885559082
+SUPRD,3,Confections,27,Schoggi Schokolade,1097.5000381469727
+SUPRD,2,Condiments,4,Chef Anton's Cajun Seasoning,462.0
+SUPRD,2,Condiments,66,Louisiana Hot Spiced Okra,693.6000145912169
+SUPRD,2,Condiments,77,Original Frankfurter grüne Soße,520.0
+SUPRD,1,Beverages,1,Chai,180.0
+SUPRD,1,Beverages,2,Chang,380.0
+SUPRD,1,Beverages,24,Guaraná Fantástica,54.0
+SUPRD,1,Beverages,35,Steeleye Stout,1080.0
+SUPRD,1,Beverages,43,Ipoh Coffee,1177.5999755859375
+SUPRD,1,Beverages,70,Outback Lager,900.0
+SUPRD,1,Beverages,76,Lakkalikööri,514.0799827766419
+THEBI,8,Seafood,36,Inlagd Sill,95.0
+THEBI,4,Dairy Products,72,Mozzarella di Giovanni,69.5999984741211
+THEBI,3,Confections,16,Pavlova,138.99999618530273
+THEBI,3,Confections,62,Tarte au sucre,197.00000762939453
+THEBI,2,Condiments,5,Chef Anton's Gumbo Mix,85.4000015258789
+THEBI,1,Beverages,34,Sasquatch Ale,140.0
+THEBI,1,Beverages,38,Côte de Blaye,2635.0
+THECR,8,Seafood,10,Ikura,186.0
+THECR,8,Seafood,40,Boston Crab Meat,183.99999618530273
+THECR,7,Produce,28,Rössle Sauerkraut,455.99998474121094
+THECR,6,Meat/Poultry,29,Thüringer Rostbratwurst,742.7400054931641
+THECR,5,Grains/Cereals,52,Filo Mix,70.0
+THECR,2,Condiments,44,Gula Malacca,194.50000762939453
+THECR,1,Beverages,1,Chai,72.0
+THECR,1,Beverages,67,Laughing Lumberjack Lager,42.0
+TOMSP,8,Seafood,41,Jack's New England Clam Chowder,135.09999465942383
+TOMSP,7,Produce,14,Tofu,167.40000343322754
+TOMSP,7,Produce,51,Manjimup Dried Apples,1696.0000610351562
+TOMSP,5,Grains/Cereals,52,Filo Mix,75.59999858736992
+TOMSP,5,Grains/Cereals,56,Gnocchi di nonna Alice,1064.0
+TOMSP,5,Grains/Cereals,57,Ravioli Angelo,187.20000388026236
+TOMSP,4,Dairy Products,31,Gorgonzola Telino,26.999999955296516
+TOMSP,3,Confections,19,Teatime Chocolate Biscuits,276.8400016030669
+TOMSP,3,Confections,49,Maxilaku,800.0
+TOMSP,1,Beverages,24,Guaraná Fantástica,64.79999817609787
+TOMSP,1,Beverages,34,Sasquatch Ale,284.1999962806702
+TORTU,8,Seafood,10,Ikura,433.9999885559082
+TORTU,8,Seafood,13,Konbu,48.00000190734863
+TORTU,8,Seafood,18,Carnarvon Tigers,600.0
+TORTU,7,Produce,28,Rössle Sauerkraut,509.6000213623047
+TORTU,6,Meat/Poultry,17,Alice Mutton,639.6000061035156
+TORTU,6,Meat/Poultry,54,Tourtière,74.49999809265137
+TORTU,4,Dairy Products,11,Queso Cabrales,315.0
+TORTU,4,Dairy Products,31,Gorgonzola Telino,250.0
+TORTU,4,Dairy Products,33,Geitost,75.0
+TORTU,4,Dairy Products,59,Raclette Courdavault,440.0
+TORTU,4,Dairy Products,71,Flotemysost,34.400001525878906
+TORTU,3,Confections,19,Teatime Chocolate Biscuits,64.39999866485596
+TORTU,3,Confections,49,Maxilaku,480.0
+TORTU,3,Confections,68,Scottish Longbreads,250.0
+TORTU,2,Condiments,44,Gula Malacca,991.9500389099121
+TORTU,2,Condiments,63,Vegie-spread,175.49999237060547
+TORTU,1,Beverages,1,Chai,180.0
+TORTU,1,Beverages,24,Guaraná Fantástica,58.499999046325684
+TORTU,1,Beverages,38,Côte de Blaye,3952.5
+TORTU,1,Beverages,39,Chartreuse verte,360.0
+TORTU,1,Beverages,43,Ipoh Coffee,230.0
+TORTU,1,Beverages,70,Outback Lager,180.0
+TORTU,1,Beverages,75,Rhönbräu Klosterbier,37.19999885559082
+TORTU,1,Beverages,76,Lakkalikööri,431.9999885559082
+TRADH,8,Seafood,30,Nord-Ost Matjeshering,491.90998801752926
+TRADH,8,Seafood,58,Escargots de Bourgogne,357.74999940767884
+TRADH,6,Meat/Poultry,29,Thüringer Rostbratwurst,940.8040062201619
+TRADH,6,Meat/Poultry,55,Pâté chinois,383.9999985694885
+TRADH,4,Dairy Products,31,Gorgonzola Telino,189.9999998509884
+TRADH,4,Dairy Products,60,Camembert Pierrot,1020.0
+TRADH,4,Dairy Products,72,Mozzarella di Giovanni,469.7999889224768
+TRADH,3,Confections,20,Sir Rodney's Marmalade,1296.0000610351562
+TRADH,3,Confections,62,Tarte au sucre,394.3999924272299
+TRADH,3,Confections,68,Scottish Longbreads,300.0
+TRADH,2,Condiments,4,Chef Anton's Cajun Seasoning,351.9999986886978
+TRADH,2,Condiments,6,Grandma's Boysenberry Spread,150.0
+TRADH,1,Beverages,39,Chartreuse verte,504.0
+TRAIH,8,Seafood,40,Boston Crab Meat,36.79999923706055
+TRAIH,5,Grains/Cereals,64,Wimmers gute Semmelknödel,199.5
+TRAIH,4,Dairy Products,33,Geitost,35.0
+TRAIH,3,Confections,62,Tarte au sucre,640.8999900817871
+TRAIH,2,Condiments,77,Original Frankfurter grüne Soße,234.0
+TRAIH,1,Beverages,39,Chartreuse verte,180.0
+TRAIH,1,Beverages,70,Outback Lager,90.0
+TRAIH,1,Beverages,75,Rhönbräu Klosterbier,155.0
+VAFFE,8,Seafood,10,Ikura,1277.1999991685152
+VAFFE,8,Seafood,40,Boston Crab Meat,1029.9999781847
+VAFFE,8,Seafood,41,Jack's New England Clam Chowder,275.0249889124185
+VAFFE,8,Seafood,45,Rogede sild,205.19999708533288
+VAFFE,7,Produce,7,Uncle Bob's Organic Dried Pears,300.0
+VAFFE,7,Produce,28,Rössle Sauerkraut,2462.3999135255817
+VAFFE,6,Meat/Poultry,29,Thüringer Rostbratwurst,1603.799997344613
+VAFFE,6,Meat/Poultry,54,Tourtière,478.6999921798706
+VAFFE,5,Grains/Cereals,52,Filo Mix,99.7499999217689
+VAFFE,4,Dairy Products,59,Raclette Courdavault,940.4999992623925
+VAFFE,4,Dairy Products,71,Flotemysost,516.0000228881836
+VAFFE,3,Confections,50,Valkoinen suklaa,325.0
+VAFFE,3,Confections,62,Tarte au sucre,739.4999885559082
+VAFFE,3,Confections,68,Scottish Longbreads,600.0
+VAFFE,2,Condiments,3,Aniseed Syrup,140.0
+VAFFE,2,Condiments,61,Sirop d'érable,570.0
+VAFFE,2,Condiments,63,Vegie-spread,1756.0000610351562
+VAFFE,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,251.9999885559082
+VAFFE,2,Condiments,77,Original Frankfurter grüne Soße,787.1499919891357
+VAFFE,1,Beverages,24,Guaraná Fantástica,202.4999976158142
+VAFFE,1,Beverages,34,Sasquatch Ale,599.1999931335449
+VAFFE,1,Beverages,35,Steeleye Stout,180.0
+VAFFE,1,Beverages,76,Lakkalikööri,503.99998664855957
+VICTE,8,Seafood,10,Ikura,867.9999714493752
+VICTE,8,Seafood,41,Jack's New England Clam Chowder,192.99999237060547
+VICTE,8,Seafood,46,Spegesild,182.40000710487365
+VICTE,7,Produce,7,Uncle Bob's Organic Dried Pears,664.7999997138977
+VICTE,7,Produce,51,Manjimup Dried Apples,159.0
+VICTE,7,Produce,74,Longlife Tofu,112.5
+VICTE,6,Meat/Poultry,54,Tourtière,28.32000035226345
+VICTE,5,Grains/Cereals,22,Gustaf's Knäckebröd,95.75999557614327
+VICTE,5,Grains/Cereals,52,Filo Mix,44.79999923706055
+VICTE,5,Grains/Cereals,57,Ravioli Angelo,222.3000052616
+VICTE,4,Dairy Products,33,Geitost,8.499999940395355
+VICTE,4,Dairy Products,72,Mozzarella di Giovanni,1111.9999694824219
+VICTE,3,Confections,25,NuNuCa Nuß-Nougat-Creme,237.99999833106995
+VICTE,3,Confections,48,Chocolade,86.69999939203262
+VICTE,3,Confections,62,Tarte au sucre,1971.9999694824219
+VICTE,3,Confections,68,Scottish Longbreads,100.0
+VICTE,2,Condiments,61,Sirop d'érable,726.7499949038029
+VICTE,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,378.09998321533203
+VICTE,1,Beverages,2,Chang,285.0
+VICTE,1,Beverages,35,Steeleye Stout,540.0
+VICTE,1,Beverages,43,Ipoh Coffee,781.9999945163727
+VICTE,1,Beverages,70,Outback Lager,382.499997317791
+VINET,8,Seafood,13,Konbu,24.0
+VINET,8,Seafood,36,Inlagd Sill,114.0
+VINET,8,Seafood,41,Jack's New England Clam Chowder,115.79999542236328
+VINET,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,98.00000190734863
+VINET,5,Grains/Cereals,52,Filo Mix,126.0
+VINET,5,Grains/Cereals,56,Gnocchi di nonna Alice,121.5999984741211
+VINET,4,Dairy Products,11,Queso Cabrales,168.0
+VINET,4,Dairy Products,71,Flotemysost,344.00001525878906
+VINET,4,Dairy Products,72,Mozzarella di Giovanni,368.59999084472656
+WANDK,8,Seafood,40,Boston Crab Meat,146.99999809265137
+WANDK,7,Produce,28,Rössle Sauerkraut,145.60000610351562
+WANDK,6,Meat/Poultry,53,Perth Pasties,524.0000152587891
+WANDK,6,Meat/Poultry,55,Pâté chinois,316.8000090122223
+WANDK,5,Grains/Cereals,22,Gustaf's Knäckebröd,315.0
+WANDK,5,Grains/Cereals,23,Tunnbröd,179.99999523162842
+WANDK,5,Grains/Cereals,56,Gnocchi di nonna Alice,607.9999923706055
+WANDK,5,Grains/Cereals,64,Wimmers gute Semmelknödel,448.8749992568046
+WANDK,4,Dairy Products,12,Queso Manchego La Pastora,721.9999994337559
+WANDK,4,Dairy Products,31,Gorgonzola Telino,389.9999998509884
+WANDK,4,Dairy Products,32,Mascarpone Fabioli,1735.9999948740005
+WANDK,4,Dairy Products,33,Geitost,47.4999999627471
+WANDK,4,Dairy Products,69,Gudbrandsdalsost,1115.999984741211
+WANDK,3,Confections,19,Teatime Chocolate Biscuits,82.79999828338623
+WANDK,3,Confections,21,Sir Rodney's Scones,319.9999988079071
+WANDK,2,Condiments,61,Sirop d'érable,341.9999987259507
+WANDK,1,Beverages,1,Chai,183.5999938488007
+WANDK,1,Beverages,2,Chang,541.4999995753169
+WANDK,1,Beverages,35,Steeleye Stout,307.7999997586012
+WANDK,1,Beverages,43,Ipoh Coffee,883.1999816894531
+WANDK,1,Beverages,70,Outback Lager,168.75
+WANDK,1,Beverages,75,Rhönbräu Klosterbier,61.99999809265137
+WARTH,8,Seafood,13,Konbu,167.99999982118607
+WARTH,8,Seafood,36,Inlagd Sill,455.9999942779541
+WARTH,8,Seafood,45,Rogede sild,322.9999977350235
+WARTH,8,Seafood,58,Escargots de Bourgogne,79.5
+WARTH,7,Produce,14,Tofu,619.6125094339252
+WARTH,7,Produce,74,Longlife Tofu,350.0
+WARTH,6,Meat/Poultry,29,Thüringer Rostbratwurst,1237.9000091552734
+WARTH,6,Meat/Poultry,53,Perth Pasties,1965.000057220459
+WARTH,6,Meat/Poultry,54,Tourtière,17.87999947562814
+WARTH,5,Grains/Cereals,22,Gustaf's Knäckebröd,504.0
+WARTH,5,Grains/Cereals,56,Gnocchi di nonna Alice,1576.999990940094
+WARTH,5,Grains/Cereals,57,Ravioli Angelo,312.00000762939453
+WARTH,4,Dairy Products,11,Queso Cabrales,315.0
+WARTH,4,Dairy Products,12,Queso Manchego La Pastora,346.55999537944797
+WARTH,4,Dairy Products,31,Gorgonzola Telino,375.0
+WARTH,4,Dairy Products,59,Raclette Courdavault,1168.7499918043613
+WARTH,4,Dairy Products,60,Camembert Pierrot,693.599995136261
+WARTH,4,Dairy Products,69,Gudbrandsdalsost,305.9999978542328
+WARTH,4,Dairy Products,71,Flotemysost,1651.2000722169876
+WARTH,3,Confections,16,Pavlova,244.30001068115234
+WARTH,3,Confections,19,Teatime Chocolate Biscuits,146.00000381469727
+WARTH,3,Confections,21,Sir Rodney's Scones,71.99999988079071
+WARTH,2,Condiments,4,Chef Anton's Cajun Seasoning,550.0
+WARTH,2,Condiments,61,Sirop d'érable,569.9999809265137
+WARTH,1,Beverages,1,Chai,284.3999988734722
+WARTH,1,Beverages,35,Steeleye Stout,108.0
+WARTH,1,Beverages,39,Chartreuse verte,287.99999237060547
+WARTH,1,Beverages,43,Ipoh Coffee,919.9999809265137
+WELLI,8,Seafood,13,Konbu,8.640000329017639
+WELLI,8,Seafood,18,Carnarvon Tigers,412.49999962747097
+WELLI,8,Seafood,46,Spegesild,226.79999962449074
+WELLI,8,Seafood,73,Röd Kaviar,215.99999964237213
+WELLI,6,Meat/Poultry,9,Mishi Kobe Niku,1396.7999702215195
+WELLI,6,Meat/Poultry,53,Perth Pasties,393.0000114440918
+WELLI,5,Grains/Cereals,23,Tunnbröd,54.0
+WELLI,5,Grains/Cereals,52,Filo Mix,140.0
+WELLI,4,Dairy Products,59,Raclette Courdavault,783.7499993853271
+WELLI,3,Confections,19,Teatime Chocolate Biscuits,209.7599954867363
+WELLI,3,Confections,25,NuNuCa Nuß-Nougat-Creme,199.4999998435378
+WELLI,3,Confections,47,Zaanse koeken,142.5
+WELLI,2,Condiments,77,Original Frankfurter grüne Soße,124.79999542236328
+WELLI,1,Beverages,1,Chai,719.9999997317791
+WELLI,1,Beverages,43,Ipoh Coffee,920.0
+WELLI,1,Beverages,70,Outback Lager,120.14999985694885
+WHITC,8,Seafood,18,Carnarvon Tigers,1250.0
+WHITC,8,Seafood,36,Inlagd Sill,665.0
+WHITC,8,Seafood,45,Rogede sild,303.99999886751175
+WHITC,8,Seafood,46,Spegesild,216.0
+WHITC,8,Seafood,58,Escargots de Bourgogne,198.75
+WHITC,8,Seafood,73,Röd Kaviar,191.2499986588955
+WHITC,7,Produce,28,Rössle Sauerkraut,182.39999321699145
+WHITC,6,Meat/Poultry,9,Mishi Kobe Niku,582.0
+WHITC,6,Meat/Poultry,17,Alice Mutton,2418.0
+WHITC,6,Meat/Poultry,53,Perth Pasties,327.99999237060547
+WHITC,6,Meat/Poultry,54,Tourtière,379.9499876081944
+WHITC,5,Grains/Cereals,56,Gnocchi di nonna Alice,577.5999978482723
+WHITC,4,Dairy Products,33,Geitost,201.49999991059303
+WHITC,4,Dairy Products,59,Raclette Courdavault,1650.0
+WHITC,4,Dairy Products,69,Gudbrandsdalsost,917.9999935626984
+WHITC,4,Dairy Products,72,Mozzarella di Giovanni,528.1999850898981
+WHITC,3,Confections,16,Pavlova,465.8749880403281
+WHITC,3,Confections,19,Teatime Chocolate Biscuits,386.39999198913574
+WHITC,3,Confections,21,Sir Rodney's Scones,520.0
+WHITC,3,Confections,26,Gumbär Gummibärchen,468.4499931335449
+WHITC,3,Confections,62,Tarte au sucre,1873.3999710083008
+WHITC,2,Condiments,4,Chef Anton's Cajun Seasoning,616.0000133514404
+WHITC,2,Condiments,8,Northwoods Cranberry Sauce,1680.0
+WHITC,2,Condiments,44,Gula Malacca,26.3499998152256
+WHITC,2,Condiments,61,Sirop d'érable,712.5
+WHITC,2,Condiments,63,Vegie-spread,842.8800261569022
+WHITC,2,Condiments,77,Original Frankfurter grüne Soße,296.3999888956547
+WHITC,1,Beverages,2,Chang,744.7999898910523
+WHITC,1,Beverages,34,Sasquatch Ale,862.3999933660031
+WHITC,1,Beverages,35,Steeleye Stout,503.9999981224537
+WHITC,1,Beverages,38,Côte de Blaye,6587.5
+WHITC,1,Beverages,75,Rhönbräu Klosterbier,185.999999307096
+WILMK,8,Seafood,40,Boston Crab Meat,220.79999542236328
+WILMK,7,Produce,28,Rössle Sauerkraut,136.79999542236328
+WILMK,6,Meat/Poultry,55,Pâté chinois,120.0
+WILMK,5,Grains/Cereals,42,Singaporean Hokkien Fried Mee,84.0
+WILMK,4,Dairy Products,12,Queso Manchego La Pastora,152.0
+WILMK,4,Dairy Products,59,Raclette Courdavault,550.0
+WILMK,3,Confections,16,Pavlova,52.35000228881836
+WILMK,3,Confections,19,Teatime Chocolate Biscuits,110.39999771118164
+WILMK,3,Confections,21,Sir Rodney's Scones,200.0
+WILMK,3,Confections,49,Maxilaku,200.0
+WILMK,2,Condiments,8,Northwoods Cranberry Sauce,400.0
+WILMK,2,Condiments,61,Sirop d'érable,142.5
+WILMK,2,Condiments,65,Louisiana Fiery Hot Pepper Sauce,210.49999237060547
+WILMK,1,Beverages,1,Chai,36.0
+WILMK,1,Beverages,24,Guaraná Fantástica,90.0
+WILMK,1,Beverages,43,Ipoh Coffee,276.0
+WILMK,1,Beverages,76,Lakkalikööri,180.0
+WOLZA,8,Seafood,58,Escargots de Bourgogne,159.0000057220459
+WOLZA,7,Produce,51,Manjimup Dried Apples,106.0
+WOLZA,7,Produce,74,Longlife Tofu,200.0
+WOLZA,6,Meat/Poultry,54,Tourtière,22.34999942779541
+WOLZA,4,Dairy Products,31,Gorgonzola Telino,300.0
+WOLZA,4,Dairy Products,60,Camembert Pierrot,510.0
+WOLZA,3,Confections,62,Tarte au sucre,591.5999908447266
+WOLZA,3,Confections,68,Scottish Longbreads,187.5
+WOLZA,2,Condiments,61,Sirop d'érable,627.0
+WOLZA,1,Beverages,1,Chai,108.0
+WOLZA,1,Beverages,2,Chang,380.0
+WOLZA,1,Beverages,24,Guaraná Fantástica,54.0
+WOLZA,1,Beverages,35,Steeleye Stout,54.0
+WOLZA,1,Beverages,75,Rhönbräu Klosterbier,232.5

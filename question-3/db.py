@@ -7,7 +7,7 @@ import os
 class Database:
     
     def __init__(self):
-        self.engine = create_engine("postgresql://postgres:12345@localhost:5432/gyk1")
+        self.engine = create_engine("postgresql://postgres:2468aybuke@localhost:5432/Gyk1northwinds")
         
     def get_customers(self):
         with self.engine.connect() as conn:
